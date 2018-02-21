@@ -3,6 +3,10 @@ TB_Layer_Priority = {
 	Default_Top = 200,
 	Default_Bottom = 300,
 	Items_List = {
+		[ACCESSORY_IDs.ACCESSORY_C_Baby_Penguin] = {
+			Default = 304,
+			Direction = {}
+		},
 		[ACCESSORY_IDs.ACCESSORY_L_RibbonMuff_Red] = {
 			Default = 303,
 			Direction = {}
@@ -25,6 +29,10 @@ TB_Layer_Priority = {
 		},
 		[ACCESSORY_IDs.ACCESSORY_RABBIT_HEAD_DRESS] = {
 			Default = 302,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Charcoal_Stove] = {
+			Default = 301,
 			Direction = {}
 		},
 		[ACCESSORY_IDs.ACCESSORY_Blinking_Eyes] = {
