@@ -680,16 +680,6 @@
 4669#Gust#
 4670#Blaze#
 
-// 2015 Nightmare Toy Factory Cards
-31016#Sorrow#
-31017#Hatred#
-31018#Frustration#
-31019#Chill#
-31020#Wrath#
-31021#Madness#
-31022#Despair#
-31023#Maniac#
-
 // 201512 Tomb of The Fallen Cards
 4671#of Sorcery#
 4672#of Sura#
@@ -717,3 +707,166 @@
 4694#Decoy#
 4695#Rain Storm#
 4696#Sound Shock#
+
+// 2015 Nightmare Toy Factory Cards
+31016#Sorrow#
+31017#Hatred#
+31018#Frustration#
+31019#Chill#
+31020#Wrath#
+31021#Madness#
+31022#Despair#
+31023#Maniac#
+
+// 2016 공중요새 카드 3종
+31024#Volcanic#
+31025#Deadly#
+31026#Auto Magic#
+
+// EP 15 카드
+27012#Active Protection#
+27013#Balkan#
+27014#Mirage#
+27015#Restore#
+27016#All Scanning#
+27017#Tempur#
+27018#Overclocking#
+27019#Debugging#
+27020#System-Error#
+4697#Overload#
+4698#Boomerang#
+4699#Dual Cannon#
+
+// 2016금요일던전
+27025#Noble#
+
+// 에피소드14.1필드몬스터카드
+27026#Blazing#
+27027#Burning#
+27028#Searing#
+27029#Flame Eater#
+27030#Firebug#
+
+// 2016년 12월 일루전 오브 문라이트
+27081#Moonlight#
+27082#Foxtail#
+27083#Growth#
+27084#Gruesome#
+27085#Delicate#
+27086#Shooter#
+27087#Truth#
+27088#Incite#
+
+// 2017년 1월 일루전 오브 뱀파이어
+27101#Sorcery#
+27102#Pioneer#
+27103#Vigor#
+27104#Compassion#
+27105#Sorrow#
+
+// 2017년 2월 일루전 오브 프로즌
+27110#Nimble#
+27111#Cheerful#
+27112#Sturdy#
+27113#Frozen#
+
+// 2017년 4월 브라질리스 카드
+27120#Recovery#
+27121#Serrasalmus#
+27122#Tidal Wave#
+27123#Insect Collector's#
+27124#Hunter's#
+27125#Aqua Benedict#
+27126#Python#
+
+//2017년 3월 일루전 오브 터틀아일랜드
+27114#Firm#
+27115#Sensible#
+27116#Dual Critical#
+27117#Lethal#
+27118#of Pierce#
+27119#of Turtle Shell#
+
+//Episode 16.2 신규 카드 추가
+27147#Intensive#
+27148#Deft#
+27149#Sniper#
+27150#of High Level#
+27151#Freezing#
+27152#Prompt#
+
+//2017년 7월 악몽의 지터벅
+27106#Musician's#
+27107#Dancing#
+27108#Singing#
+27109#Jitterbug#
+
+//2017년 9월 모스코비아 카드
+27157#of Aqua Wood#
+27158#of Windiness#
+27159#Demon Hunter#
+27160#Dodge#
+27161#Land Blast#
+27162#Soul Steal#
+
+//2017년 9월 영웅의흔적p1카드
+27163#of Abranchia#
+27164#Koya#
+27165#of Avian#
+27166#Frio#
+27167#Glacial#
+27168#of Padre#
+27169#Infante#
+
+//11월 사냥대회
+27196#Heine#
+27197#Lugenburg#
+27198#Wigner#
+27199#Nerius#
+27200#니힐의#
+27201#아그네스의#
+27202#유르겐의#
+27203#스피카의#
+
+//2018년 1월 영웅의흔적p2,3카드
+27181#Bane Band#
+27182#Hammer Shooter#
+27183#Onslaught#
+27184#Salvation#
+
+//신규카드28종
+27170#of Dust#
+27171#of Sunset#
+27172#Sharp Sword#
+27173#Dusty#
+27174#Sunset#
+27175#Small Hunter#
+27176#of Dirty#
+27177#of Marsh#
+27178#of Zero Guard#
+27249#Arhi#
+27179#of Wild Fang#
+27250#Anemos#
+27180#Power Break#
+27251#Gangster#
+27252#Bully#
+27253#Shoplifter#
+27254#Faymont#
+27255#Ordre#
+27256#Hase#
+27257#Akuma#
+27258#Ifodes#
+27259#Licheniyes#
+27260#Odoric#
+27261#Ju#
+27262#Dwigh#
+27263#Kanavian#
+27264#of Evil Shadow#
+27265#Evil Fanatic#
+
+//일루전 오브 테디베어
+27286#Lumping#
+27287#of Luminant#
+27288#of Worker#
+27289#Proper#
+27290#of Obsidian#
