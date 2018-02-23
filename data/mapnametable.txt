@@ -1,3 +1,52 @@
+//-- 최종갱신 오후 2:44 2018-02-19 사크라이
+
+// 일루전 테디베어 나사리안 제국
+ein_d02_i.rsw#나사리안 제국#
+
+//-- 환영의 회랑
+vis_h01.rsw#환영의 회랑 1층#
+vis_h02.rsw#환영의 회랑 2층#
+vis_h03.rsw#환영의 회랑 3층#
+vis_h04.rsw#환영의 회랑 4층#
+
+//고성 상급 메모리얼던전
+2@gl_kh.rsw#옛기사단2층#
+1@gl_kh.rsw#옛기사단1층#
+
+// 11월 사냥대회
+hu_fild03.rsw#사냥터#
+prt_evt_in.rsw#사냥터의 오두막#
+
+// 꿈과 그림자 (지터벅 개편)
+1@jtb.rsw#꿈과 그림자#
+
+// X주년
+x_prt.rsw#차원너머의 프론테라#
+x_lhz.rsw#차원너머의 리히타르젠#
+x_ra.rsw#차원너머의 라헬#
+
+// 7월 국수 축제
+lasa_sea.rsw#냐일굴#
+1@drdo.rsw#전설의 도라도#
+
+//닌자 건슬 전직소
+que_ng.rsw#알 수 없는 곳#
+
+//화산섬 코로도
+1@crd.rsw#화산섬 코로도#
+
+// 일루전 거북섬 (구양궁)
+tur_d03_i.rsw#쓸쓸한 양거촌#
+tur_d04_i.rsw#스산한 구양궁#
+
+//포링마을
+1@begi.rsw#포링 마을#
+
+// 수상한 난파선
+1@tre.rsw#수상한 난파선#
+
+// Illusion of Frozen
+ice_d03_i.rsw#Frozen Memory#
 
 // Illusion Geffen (Vampire)
 gef_d01_i.rsw#250 Pages#
@@ -1131,7 +1180,7 @@ poring_c02.rsw#Poring Market#
 // France event map.
 gl_in01_ev.rsw#Event Crazy Drops#
 
-// Halloween 2008 
+// Halloween 2008
 evt_zombie.rsw#Run From Zombies#
 
 arcadanias.rsw#Arcadanias, Satellite World#
