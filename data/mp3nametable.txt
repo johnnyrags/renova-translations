@@ -1,15 +1,5 @@
-//-최종갱신 오후 2:43 2018-02-19
+//-최종갱신 사크라이 2018-03-05
 //맵이름.rsw#bgm\\음악번호#
-
-//환영의회랑
-vis_h01.rsw#bgm\\123.mp3#
-vis_h02.rsw#bgm\\123.mp3#
-vis_h03.rsw#bgm\\123.mp3#
-vis_h04.rsw#bgm\\123.mp3#
-
-//고성 상급 메모리얼
-1@gl_kh.rsw#bgm\\44.mp3#
-2@gl_kh.rsw#bgm\\44.mp3#
 
 //--- 통상판 마을음악
 prt_church.rsw#bgm\\10.mp3#
@@ -45,6 +35,16 @@ hu_in01.rsw#bgm\\93.mp3#
 
 // 일루전 테디베어 나사리안 제국
 ein_d02_i.rsw#bgm\\88.mp3#
+
+//환영의회랑
+vis_h01.rsw#bgm\\123.mp3#
+vis_h02.rsw#bgm\\123.mp3#
+vis_h03.rsw#bgm\\123.mp3#
+vis_h04.rsw#bgm\\123.mp3#
+
+//고성 상급 메모리얼
+1@gl_kh.rsw#bgm\\44.mp3#
+2@gl_kh.rsw#bgm\\44.mp3#
 
 // 11월 사냥대회
 hu_fild03.rsw#bgm\\91.mp3#
