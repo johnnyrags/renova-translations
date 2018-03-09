@@ -2533,7 +2533,7 @@ You do not have enough items.#
 Name of the character that cannot be invited.#
 You cannot invite the character to the guild.#
 Item already Sold,Purchase Failed.#
-ÇöÀç À§Ä¡¿¡¼­ ¿öÇÁ Àå¼Ò¸¦ ±â¾ï ÇÒ ¼ö ¾ø½À´Ï´Ù.#
+The warp spot cannot be memorized in current position.#
 Cannot purchase item, You exceeded the weight.#
 No.#
 Item#
@@ -2796,7 +2796,7 @@ Guild Storage X#
 Sell to NPC X#
 Item moves restriction.#
 Please Create a Character!#
-#
+You need to disarm the equipped projectiles.#
 You cannot enter Memorial Dungeon with excess members#
 Memorial Dungeon Access was denied due to exceeding number of players#
 %.1f%% ( %s Server: %.1f%% + Premium:%.1f%% )#
@@ -3311,7 +3311,7 @@ http://member.gnjoy.com/user/pay/chargelist.asp#
 소울리퍼(남)#
 무게가 %d 퍼센트 이상일때는 HP SP가 자연적으로 회복이 되지 않습니다.#
 한 번에 구입 가능한 아이템의 가짓수는 8개입니다.#
-http://gift.zhaouc.com/#/index#
+http://gift.zhaouc.com/#
 UNKNOWN ERROR:%d#
 NOT USER#
 THIS ACCOUNT ID IS BLOCKED#
@@ -3463,16 +3463,16 @@ http://ro.gnjoy.com#
 계정보안을 위하여 MOTP미사용자는 홈페이지 로그인만 가능합니다.\n홈페이지로 로그인을 시도해주시기 바랍니다.#
 물리 공격력과 마법 공격력이 향상되었습니다.#
 물리 공격력과 마법 공격력이 감소되었습니다.#
-%s 출석체크 보상#
-이벤트 기간 : %02d월 %02d일 ~ %2d월 %2d일 24:00까지#
-%d일차#
-%d일차 출석체크\n클릭해주세요~!#
-%d일차 출석 성공!#
+%s Attendance Check Reward#
+Event period : From %02d/%02d ~ Until %2d/%2d (Month/Day) 24:00#
+%d Day#
+%d Day attendance check\nPlease click~!#
+%d Day attendance success!#
 D-day#
-일#
-출석체크에 실패하였습니다. 다시 실행해주세요.#
-출석체크#
-현재 출석체크 이벤트 기간이 아닙니다#
+Day#
+Attendance Check failed. Please run again.#
+Attendance Check#
+This is not the current attendance check event#
 길드 상납 경험치가 max에 도달하여, 더 이상 길드 경험치를 누적할 수 없습니다#
 개인 상납 경험치가 max에 도달하여, 더 이상 길드 경험치를 누적할 수 없습니다.#
 메시지#
