@@ -1,4 +1,4 @@
-//-- 최종갱신 사크라이 2018-03-05
+//-- 최종갱신 사크라이 2018-03-19
 
 // 일루전 테디베어 나사리안 제국
 ein_d02_i.rsw#나사리안 제국#
@@ -153,7 +153,7 @@ ver_tunn.rsw#Verus, Tunnel Outskirts#
 verus04.rsw#Verus, Excavation Site#
 verus03.rsw#Verus, Central Plaza#
 
-1@mcd.rsw#Charleston Factory#
+1@mcd.rsw#In King's Heel#
 
 //Operations Team Event
 e_hugel.rsw#Invaded Hugel#
