@@ -48,5 +48,7 @@ RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_Blue_Fairy_Wing] = "Blue_Fairy_Wing",
 	[SPRITE_ROBE_IDs.ROBE_EXE_Backpack] = "EXE_Backpack",
 	[SPRITE_ROBE_IDs.ROBE_Thanatos_Sword] = "Thanatos_Sword",
-	[SPRITE_ROBE_IDs.ROBE_Wings_of_Michael] = "Wings_of_Michael"
+	[SPRITE_ROBE_IDs.ROBE_Wings_of_Michael] = "Wings_of_Michael",
+	[SPRITE_ROBE_IDs.ROBE_GiantCatBag] = "GiantCatBag",
+	[SPRITE_ROBE_IDs.ROBE_BlackCatBag] = "BlackCatBag"
 }

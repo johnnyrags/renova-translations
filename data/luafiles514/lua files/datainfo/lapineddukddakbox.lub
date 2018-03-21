@@ -5875,6 +5875,16 @@ tblLapineDdukddakBox = {
 					"C_Fluffy_Heart_Earmuffs",
 					1,
 					31439
+				},
+				{
+					"C대천사의날개",
+					1,
+					20765
+				},
+				{
+					"C_GiantCatBag_TW",
+					1,
+					20517
 				}
 			},
 			NeedSource_String = "냥다래 의상"
