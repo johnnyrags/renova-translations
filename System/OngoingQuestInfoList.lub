@@ -38191,7 +38191,7 @@ QuestInfoList = {
 		Description = {
 			"지도에 표시된 세 번째 <NAVI>[산책 코스]<INFO>yuno.gat,179,204,0,101,0</INFO></NAVI>로 큐펫을 따라 가 보자."
 		},
-		Summary = "세 번찌 산책 코스"
+		Summary = "세 번째 산책 코스"
 	},
 	[16287] = {
 		Title = "행복한 산책 코스",
