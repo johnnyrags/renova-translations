@@ -20626,6 +20626,222 @@ QuestInfoList = {
 		},
 		Summary = "04시 초기화"
 	},
+	[8500] = {
+		Title = "꽃가지가 필요해요",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"<NAVI>[아를르 오를레앙]<INFO>prontera,167,291,0,101,0</INFO></NAVI>의 부탁으로 꽃가지 15개를 모아 와야 한다."
+		},
+		Summary = "꽃가지 15개 전달"
+	},
+	[8501] = {
+		Title = "분실한 사인본 배달 (1)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"<NAVI>[아를르 오를레앙]<INFO>prontera,167,291,0,101,0</INFO></NAVI>의 사인회에서 분실된 책을 주인에게 찾아준 뒤, 아를르 오를레앙에게 돌아오자."
+		},
+		Summary = "책 전달 후 보고"
+	},
+	[8502] = {
+		Title = "책 주인: 엘라이스",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"프론테라 어딘가에 있는 엘라이스에게 잃어버린 책을 가져다 주자."
+		},
+		Summary = ""
+	},
+	[8503] = {
+		Title = "책 주인: 흑제™",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"프론테라 어딘가에 있는 흑제™에게 잃어버린 책을 가져다 주자."
+		},
+		Summary = ""
+	},
+	[8504] = {
+		Title = "책 주인: 무위자연",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"프론테라 어딘가에 있는 무위자연에게 잃어버린 책을 가져다 주자."
+		},
+		Summary = ""
+	},
+	[8505] = {
+		Title = "책 주인: 너만의수호천사",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"프론테라 어딘가에 있는 너만의수호천사에게 잃어버린 책을 가져다 주자."
+		},
+		Summary = ""
+	},
+	[8506] = {
+		Title = "분실한 사인본 배달 (2)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"<NAVI>[아를르 오를레앙]<INFO>prontera,167,291,0,101,0</INFO></NAVI>의 사인회에서 분실된 책을 주인에게 찾아준 뒤, 아를르 오를레앙에게 돌아오자."
+		},
+		Summary = "책 전달 후 보고"
+	},
+	[8507] = {
+		Title = "책 주인: 꼬마블스",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"프론테라 어딘가에 있는 꼬마블스에게 잃어버린 책을 가져다 주자."
+		},
+		Summary = ""
+	},
+	[8508] = {
+		Title = "책 주인: 악마의미소",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"프론테라 어딘가에 있는 악마의미소에게 잃어버린 책을 가져다 주자."
+		},
+		Summary = ""
+	},
+	[8509] = {
+		Title = "책 주인: 루사펠",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"프론테라 어딘가에 있는 루사펠에게 잃어버린 책을 가져다 주자."
+		},
+		Summary = ""
+	},
+	[8510] = {
+		Title = "책 주인: 마리엔",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"프론테라 어딘가에 있는 마리엔에게 잃어버린 책을 가져다 주자."
+		},
+		Summary = ""
+	},
+	[8511] = {
+		Title = "분실한 사인본 배달 (3)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"<NAVI>[아를르 오를레앙]<INFO>prontera,167,291,0,101,0</INFO></NAVI>의 사인회에서 분실된 책을 주인에게 찾아준 뒤, 아를르 오를레앙에게 돌아오자."
+		},
+		Summary = "책 전달 후 보고"
+	},
+	[8512] = {
+		Title = "책 주인: 헤븐즈도어",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"프론테라 어딘가에 있는 헤븐즈도어에게 잃어버린 책을 가져다 주자."
+		},
+		Summary = ""
+	},
+	[8513] = {
+		Title = "책 주인: ∥샤를롯테∥",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"프론테라 어딘가에 있는 ∥샤를롯테∥에게 잃어버린 책을 가져다 주자."
+		},
+		Summary = ""
+	},
+	[8514] = {
+		Title = "책 주인: ★날개잃은천사★",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"프론테라 어딘가에 있는 ★날개잃은천사★에게 잃어버린 책을 가져다 주자."
+		},
+		Summary = ""
+	},
+	[8515] = {
+		Title = "책 주인: 대마녀†루시아나",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"프론테라 어딘가에 있는 대마녀†루시아나에게 잃어버린 책을 가져다 주자."
+		},
+		Summary = ""
+	},
+	[8516] = {
+		Title = "분실한 사인본 배달 (4)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"<NAVI>[아를르 오를레앙]<INFO>prontera,167,291,0,101,0</INFO></NAVI>의 사인회에서 분실된 책을 주인에게 찾아준 뒤, 아를르 오를레앙에게 돌아오자."
+		},
+		Summary = "책 전달 후 보고"
+	},
+	[8517] = {
+		Title = "책 주인: 란디",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"프론테라 어딘가에 있는 란디에게 잃어버린 책을 가져다 주자."
+		},
+		Summary = ""
+	},
+	[8518] = {
+		Title = "책 주인: ♡힐천사♡",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"프론테라 어딘가에 있는 ♡힐천사♡에게 잃어버린 책을 가져다 주자."
+		},
+		Summary = ""
+	},
+	[8519] = {
+		Title = "책 주인: ♬ORION♬",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"프론테라 어딘가에 있는 ♬ORION♬에게 잃어버린 책을 가져다 주자."
+		},
+		Summary = ""
+	},
+	[8520] = {
+		Title = "책 주인: 대박상회™",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"프론테라 어딘가에 있는 대박상회™에게 잃어버린 책을 가져다 주자."
+		},
+		Summary = ""
+	},
+	[8521] = {
+		Title = "분실한 사인본 배달 (5)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"<NAVI>[아를르 오를레앙]<INFO>prontera,167,291,0,101,0</INFO></NAVI>의 사인회에서 분실된 책을 주인에게 찾아준 뒤, 아를르 오를레앙에게 돌아오자."
+		},
+		Summary = "책 전달 후 보고"
+	},
+	[8522] = {
+		Title = "책 주인: 켈리 폰 에르엔",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"프론테라 어딘가에 있는 켈리 폰 에르엔에게 잃어버린 책을 가져다 주자."
+		},
+		Summary = ""
+	},
+	[8523] = {
+		Title = "책 주인: 미사몬",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"프론테라 어딘가에 있는 미사몬에게 잃어버린 책을 가져다 주자."
+		},
+		Summary = ""
+	},
+	[8524] = {
+		Title = "책 주인: 무적검사",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"프론테라 어딘가에 있는 무적검사에게 잃어버린 책을 가져다 주자."
+		},
+		Summary = ""
+	},
+	[8525] = {
+		Title = "책 주인: 고독한노비스",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"프론테라 어딘가에 있는 고독한노비스에게 잃어버린 책을 가져다 주자."
+		},
+		Summary = ""
+	},
+	[8526] = {
+		Title = "사은품 왕 딸기",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"사인본을 받지는 않았지만 남은 의상 왕 딸기를 받았다."
+		},
+		Summary = ""
+	},
 	[8527] = {
 		Title = "지연 보험: 경험치 카드와 스텝",
 		Description = {
