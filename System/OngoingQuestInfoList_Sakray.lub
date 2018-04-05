@@ -101,7 +101,7 @@ QuestInfoList = {
 	[1013] = {
 		Title = "Job Change to Thief",
 		Description = {
-			"Steal Mushrooms from Shibu's farm. Gather 2 kinds of Mushrooms: ^0000FFOrange Net Mushroom^000000 3 points and  ^0000FFOrange Gooey Mushroom^000000 1 point. You need a total of 25 points to pass the test. Head toward the Eastern Field of the Pyramids.",
+			"Steal Mushrooms from Shibu's farm. Gather 2 kinds of Mushrooms: ^0000FFOrange Net Mushroom^000000 3 points and ^0000FFOrange Gooey Mushroom^000000 1 point. You need a total of 25 points to pass the test. Head toward the Eastern Field of the Pyramids.",
 		},
 		Summary = "Gather Orange Net Mushroom and Orange Gooey Mushroom"
 	},
@@ -3440,14 +3440,14 @@ QuestInfoList = {
 	[2069] = {
 		Title = "Tierra Gorge Battle",
 		Description = {
-			"You have received an indicator showing that you've participated in the Battle at Tierra Gorge.  Guillaume Army won't let you participate in any other battles until the indicator goes off.",
+			"You have received an indicator showing that you've participated in the Battle at Tierra Gorge. Guillaume Army won't let you participate in any other battles until the indicator goes off.",
 		},
 		Summary = "Stand-by for Tierra Gorge Battle until the time limit passes."
 	},
 	[2070] = {
 		Title = "Flavius Battle",
 		Description = {
-			"You have received an indicator showing that you've participated in the Flavius Battle.  Croix Army Officer won't let you participate in any other battles until the indicator goes off.",
+			"You have received an indicator showing that you've participated in the Flavius Battle. Croix Army Officer won't let you participate in any other battles until the indicator goes off.",
 		},
 		Summary = "Stand-by for Flavius Battle until the time limit passes."
 	},
@@ -5038,7 +5038,7 @@ QuestInfoList = {
 		Description = {
 			"Beautiful Song - I have met a beautiful singer Bard. I want to be a Bard...Should I ask him about becoming a Bard?",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3001] = {
 		Title = "Job Change to Bard",
@@ -5052,14 +5052,14 @@ QuestInfoList = {
 		Description = {
 			"The first step to becoming a Bard - Bard Lalo asks to find a talking snowman in Lutie and receive a present from him.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3003] = {
 		Title = "Job Change to Bard",
 		Description = {
 			"Following a Song - Bard Lalo asks me to follow a song after him. If I am following to sing exactly, I could be a Bard...",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3004] = {
 		Title = "Job Change to Bard",
@@ -5115,7 +5115,7 @@ QuestInfoList = {
 		Description = {
 			"\"You need to have enough knowledge to qualify for the job. Sorry, but I feel you have to study more. Come back when you're ready.\"",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3013] = {
 		Title = "Job Change to Crusader",
@@ -5206,7 +5206,7 @@ QuestInfoList = {
 		Description = {
 			"\"I'll teach you the way of the monk -- the mental attitude required and our dogma. You just need to remember what I'll tell you and memorize it. Are you ready?\"",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3026] = {
 		Title = "Job Change to Monk",
@@ -5241,7 +5241,7 @@ QuestInfoList = {
 		Description = {
 			"\"The last test is a spiritual training! Attack and slash all enemies that stand in your way! Now! Make a fist! Stand up! It's time!\"",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3032] = {
 		Title = "Job Change to Monk - Become a Monk",
@@ -5255,21 +5255,21 @@ QuestInfoList = {
 		Description = {
 			"\"You cannot enter because the Curse of Baphomet still remains. The curse of Baphomet disappears 12 hours after you have entered.\"",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3041] = {
 		Title = "The Curse of Baphomet",
 		Description = {
 			"\"Your SP has not yet recovered from activating another seal. You can't activate another seal until 5 minutes have passed.\"",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3042] = {
 		Title = "The Cursed Baphomet Doll",
 		Description = {
 			"Friar Patrick suggests meeting Rust Blackhand who is near the main building of the Monastery. He says Rust Blackhand will make the Cursed Baphomet Doll very helpful.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3043] = {
 		Title = "The Gigantic Magestic Goat",
@@ -5311,14 +5311,14 @@ QuestInfoList = {
 		Description = {
 			"Satan Morocc was finally driven out of Rune-Midgards and disappeared through the time-space gap. You can see the fragments floating in the gap.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3055] = {
 		Title = "Resurrection of Satan Morocc - 6",
 		Description = {
 			"You stretch your hand and pick up a lusterless fragment. It's a piece of the Satan Morocc's skin. This will be the decisive proof of defeating Satan Morocc.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3056] = {
 		Title = "Resurrection of Satan Morocc - 7",
@@ -5332,35 +5332,35 @@ QuestInfoList = {
 		Description = {
 			"A kid name Karyn has lost his little sister when they went to Thor Volcano in Veins. You must help him finding his sis Curdie.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3061] = {
 		Title = "Kids in Veins - Find a way to unlock the shackles!",
 		Description = {
 			"Karyn's sister has been shakled down. You must get back to the town in Veins to find the way to free her.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3062] = {
 		Title = "Kids in Veins - Find the Locksmith!",
 		Description = {
 			"Karyn's sister has been shakled down. You must get back to the town in Veins to find the way to free her.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3063] = {
 		Title = "Kids in Veins - Mr. Lockenlock?",
 		Description = {
 			"Find the expert named Locksmith Lockenlock. This Mr. Lockenlock's supposed to be sitting in the market street, drunk. You must bring 1 Yellow Potion with you.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3064] = {
 		Title = "Kids in Veins - Organic Chamelepu Soap",
 		Description = {
-			"Mr. Lockenlock says he needs a Chamelepu Soap to make a mold of a key.  You can purchase the soap from the soap maker, Ms. Ivory at the market.",
+			"Mr. Lockenlock says he needs a Chamelepu Soap to make a mold of a key. You can purchase the soap from the soap maker, Ms. Ivory at the market.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3065] = {
 		Title = "Kids in Veins - Soap Ingredients",
@@ -5372,9 +5372,9 @@ QuestInfoList = {
 	[3066] = {
 		Title = "Kids in Veins - To make a Chamelepu Soap...",
 		Description = {
-			"Go visit Mr. Saraman, the Camel Farm owner with the ingredients.  He'll tell you what to do with the ingredients. Let's get going!",
+			"Go visit Mr. Saraman, the Camel Farm owner with the ingredients. He'll tell you what to do with the ingredients. Let's get going!",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3067] = {
 		Title = "Kids in Veins - Camel Appetite Stimulants",
@@ -5386,23 +5386,23 @@ QuestInfoList = {
 	[3068] = {
 		Title = "Kids in Veins - Getting the Camel Dung",
 		Description = {
-			"You've successfully gathered the appetite stimulants.  Feed the camel with what you've gathered and get 5 lumps of camel dung.",
+			"You've successfully gathered the appetite stimulants. Feed the camel with what you've gathered and get 5 lumps of camel dung.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3069] = {
 		Title = "Kids in Veins - Where's the Silk Sand Camel?",
 		Description = {
 			"Weird... Camels are not responding to the stimulants. Let's go back to Mr. Saraman and find out what's going on.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3070] = {
 		Title = "Kids in Veins - Silk Sand Camel is gone!",
 		Description = {
-			"The Silk Sand Camel has escaped the farm and disappeared.  Let's go find the Silk Sand Camel for Mr. Saraman and get 5 lumps of camel dung.  The camel shouldn't have gone so far.",
+			"The Silk Sand Camel has escaped the farm and disappeared. Let's go find the Silk Sand Camel for Mr. Saraman and get 5 lumps of camel dung. The camel shouldn't have gone so far.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3071] = {
 		Title = "Kids in Veins - Silk Sand Camel is found!",
@@ -5416,63 +5416,63 @@ QuestInfoList = {
 		Description = {
 			"1 lump of Silk Sand Camel's dung is obtained. You need 4 more of this. Each lump of dung would take up some ingredients.",
 		},
-		Summary = "  2 Milk, 20 Green Herbs, 10 Jellopies, 1 Empty Bottle"
+		Summary = "2 Milk, 20 Green Herbs, 10 Jellopies, 1 Empty Bottle"
 	},
 	[3073] = {
 		Title = "Kids in Veins - 2 lumps of Camel dung obtained",
 		Description = {
 			"2 lumps of Silk Sand Camel's dung is obtained. You need 3 more of these. Each lump of dung would take up some ingredients.",
 		},
-		Summary = "  2 Milk, 20 Green Herbs, 10 Jellopies, 1 Empty Bottle"
+		Summary = "2 Milk, 20 Green Herbs, 10 Jellopies, 1 Empty Bottle"
 	},
 	[3074] = {
 		Title = "Kids in Veins - 3 lumps of Camel dung obtained",
 		Description = {
 			"3 lumps of Silk Sand Camel's dung is obtained. You need 2 more of these. Each lump of dung would take up some ingredients.",
 		},
-		Summary = "  2 Milk, 20 Green Herbs, 10 Jellopies, 1 Empty Bottle"
+		Summary = "2 Milk, 20 Green Herbs, 10 Jellopies, 1 Empty Bottle"
 	},
 	[3075] = {
 		Title = "Kids in Veins - 4 lumps of Camel dung obtained",
 		Description = {
 			"4 lumps of Silk Sand Camel's dung is obtained. You need 1 more of these. Each lump of dung would take up some ingredients.",
 		},
-		Summary = "  2 Milk, 20 Green Herbs, 10 Jellopies, 1 Empty Bottle"
+		Summary = "2 Milk, 20 Green Herbs, 10 Jellopies, 1 Empty Bottle"
 	},
 	[3076] = {
 		Title = "Kids in Veins - 5 lumps of Camel dung obtained",
 		Description = {
 			"You're finally done with collecting lumps of camel dung. Let's go back to Mr. Saraman and tell him the location of the Camel's whereabouts.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3077] = {
 		Title = "Kids in Veins - Go to Ms. Ivory",
 		Description = {
-			"You told Mr. Saraman where his camel was.  Now, let's go back to Ms. Ivory.",
+			"You told Mr. Saraman where his camel was. Now, let's go back to Ms. Ivory.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3078] = {
 		Title = "Kids in Veins - Chamalepu Soap is completed!",
 		Description = {
 			"Go to Mr. Lockenlock with Chamalepu Soap.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3079] = {
 		Title = "Kids in Veins - Making the key mold",
 		Description = {
-			"Mr. Lockenlock teaches you how to make the key mold from the lock. You pour the soap into the keyhole and pour it back to the bottle. He could make the key out of the mold.  Let's get going!",
+			"Mr. Lockenlock teaches you how to make the key mold from the lock. You pour the soap into the keyhole and pour it back to the bottle. He could make the key out of the mold. Let's get going!",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3080] = {
 		Title = "Kids in Veins - Bringing the key mold",
 		Description = {
-			"Little Curdie is still shackled and losing her strength.  You must go back to Mr. Lockenlock with the mold ASAP, so he could make the key.",
+			"Little Curdie is still shackled and losing her strength. You must go back to Mr. Lockenlock with the mold ASAP, so he could make the key.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3081] = {
 		Title = "Kids in Veins - All you need is Steel!",
@@ -5486,231 +5486,231 @@ QuestInfoList = {
 		Description = {
 			"You've got the master key after listening to the behind story of the lock. You must rescue Curdie and then throw the key away.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3083] = {
 		Title = "Kids in Veins - Mr. Lockenlock's key",
 		Description = {
-			"Curdie is now safely back to town.  Whatever it is, this place is hiding something big, something related to the Rachel Army. Let's go back to town and meet the kids.",
+			"Curdie is now safely back to town. Whatever it is, this place is hiding something big, something related to the Rachel Army. Let's go back to town and meet the kids.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3085] = {
 		Title = "Call from the commander",
 		Description = {
 			"Abidal, a staff officer, has someting to tell you. The commander of the expedition seems to have an important mission for me...",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3086] = {
 		Title = "Commander's Duty",
 		Description = {
 			"He wants you to deliver the expedition report to the 3 countries of Rune Midgard. You need to confirm the mission from the commander.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3087] = {
 		Title = "Report to Rune Midgard",
 		Description = {
 			"You take the delivery mission. You need to talk with a messenger in the space gap and prepare the delivery of the reports.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3088] = {
 		Title = "Report to the continent - Accident!",
 		Description = {
 			"You are assaulted around the space gap and lose the report. You'd better return to the commander and explain to him what happened.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3089] = {
 		Title = "Report to the continent - How to restore",
 		Description = {
 			"The commander orders you to restore the report together with Abidal.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3090] = {
 		Title = "Report to the continent - Location of reports",
 		Description = {
 			"Try to find the reports scattered around Ash Vacuum. It is possible that the monsters here have taken them. Get some information from the scouts around here.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3091] = {
 		Title = "Report to the continent - Location of reports",
 		Description = {
 			"Try to find the reports scattered around Ash Vacuum. It is possible that the monsters here have taken them. Get some information from the scouts around here.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3092] = {
 		Title = "Report to the continent - Success to restore!",
 		Description = {
 			"Finally you restored the draft of the report with Abidal. You should go to the commander to report.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3093] = {
 		Title = "Report to the continent - Report to the continent",
 		Description = {
 			"You should deliver 3 reports to 3 countries. The recievers are Laur in Prontera, Nuria in Rachel and Gerhart in the Schwaltzval Republict.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3094] = {
 		Title = "Report to the continent - Return to the expedition",
 		Description = {
 			"You finished delivering the reports. Return to the commander and report.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3100] = {
 		Title = "Consolidating Heavy Debt - Lost Bond of Debt",
 		Description = {
 			"Muff in Comodo seeks for a help finding his bond of debt he lost in the Papuchicha Forest near the river.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3101] = {
 		Title = "Consolidating Heavy Debt - Strange Heap of Earth",
 		Description = {
 			"You discovered some strange heap of earth! Let's have a look.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3102] = {
 		Title = "Consolidating Heavy Debt - Bond of Debt Found, but...",
 		Description = {
 			"The bond of debt is found, however, it is wet and tattered. It seems like completely ruined. Bring it to Muff anyway.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3103] = {
 		Title = "Consolidating Heavy Debt - Inventor Dorian",
 		Description = {
 			"Inventor Dorian in Izlude might be able to restore the bond of debt by using his Magic Dryer.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3104] = {
 		Title = "Consolidating Heavy Debt - Repair Materials of Magic Dryer",
 		Description = {
 			"Dorian says you must help him fix the dryer if you want to use it.",
 		},
-		Summary = "  20 Rusty Screws, 10 Iron Ores, 5 Steel, 2 Rubies, 10 Red Gemstones"
+		Summary = "20 Rusty Screws, 10 Iron Ores, 5 Steel, 2 Rubies, 10 Red Gemstones"
 	},
 	[3105] = {
 		Title = "Consolidating Heavy Debt - Repairing Magic Dryer",
 		Description = {
 			"Dorian tells you how to fix the dryer and lets you fix it yourself. It seems difficult...",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3106] = {
 		Title = "Consolidating Heavy Debt - Repairing Magic Dryer Failed",
 		Description = {
 			"Repairing failed at last. Report Dorian that you have failed.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3107] = {
 		Title = "Consolidating Heavy Debt - Repairing Magic Dryer Successful",
 		Description = {
 			"Rapairing is successful at last. Report Dorian that you have succeeded.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3108] = {
 		Title = "Consolidating Heavy Debt - Let's Run the Magic Dryer",
 		Description = {
 			"Restore the bond of debt by using the Magic Dryer.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3109] = {
 		Title = "Consolidating Heavy Debt - Restoring the Bond of Debt",
 		Description = {
 			"The bond of debt is now completely restored. Bring it to Muff.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3110] = {
 		Title = "Stolen Diamond - Tracking the Diamond",
 		Description = {
 			"Find the stolen diamond. First, you must find Jhonnita in Alberta, Kimeunbang in Payon, and Leblo in Geffen. They might know whereabouts.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3111] = {
 		Title = "Stolen Diamond - Leblo's Favor",
 		Description = {
 			"Let's make a deal. I'll give you the information if you get some medicine from the doctor, Wola, in Payon.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3112] = {
 		Title = "Stolen Diamond - Wola the Doctor",
 		Description = {
 			"You should help me fix this pot. I can't make any medicine without this pot.",
 		},
-		Summary = "  20 Fine Sands, 10 Brigans, 10 Soft Leaf, 5 Empty Bottles"
+		Summary = "20 Fine Sands, 10 Brigans, 10 Soft Leaf, 5 Empty Bottles"
 	},
 	[3113] = {
 		Title = "Stolen Diamond - Wola the Doctor",
 		Description = {
 			"Finally the pot is fixed. Now, what did you say you needed?",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3114] = {
 		Title = "Stolen Diamond - Wola the Doctor",
 		Description = {
 			"Leblo... Oh, that man in Geffen? I already prepared it. I'll have it delivered to him shortly.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3115] = {
 		Title = "Stolen Diamond - Leblo's Information",
 		Description = {
 			"It would probably be the Z Gang that stole the diamond. Get some information on Z Gang at the Rogue Guild.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3116] = {
 		Title = "Stolen Diamond - Information from Rogue Investigator",
 		Description = {
 			"Bribe him with some money and you hear that the Z Gang's old hideout is a large warehouse over in Comodo. Go check it out!",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3117] = {
 		Title = "Stolen Diamond - Odd Switches",
 		Description = {
 			"While searching the warehouse in Comodo, you found some odd switches. Let's examine some more.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3118] = {
 		Title = "Stolen Diamond - Diamond Found!",
 		Description = {
 			"You have found Ibrahim's Diamond of Destruction by activating those weird machine in the warehouse. Hurry and bring this back to Ibrahim.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3119] = {
 		Title = "Z Gang Wanted - Wanted Notice",
 		Description = {
 			"The Rune-Midgarts Kingdom's Homeland Security Office will reward anyone that captures Z Gang. How about giving it a try? Let's gather some more info about this.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3120] = {
 		Title = "Z Gang Wanted - About Z Gang",
 		Description = {
 			"There are three members: Louis Von Silokens a.k.a. Louis, Martha Hertizan a.k.a. Martha, and Catfoii a.k.a. Catfoii must be captured! You can get more info from a knight named Valdes.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3121] = {
 		Title = "Z Gang Wanted - Valdes's Favor",
@@ -5724,161 +5724,161 @@ QuestInfoList = {
 		Description = {
 			"It is recommended that you be in touch with an agent from the Rogue Guild in order to find Z Gang. You must find Marybell, the Rogue agent, and get the info. The password you must give her is \"^3355FFThe dawn is yet to come^000000",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3123] = {
 		Title = "Z Gang Wanted - Marybell's Test",
 		Description = {
 			"Marybell wants to test you out. She will trust you if you get the a recommendation letter from the legendary gambler named Moonho Ahn in Payon.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3124] = {
 		Title = "Z Gang Wanted - Challenging Moonho Ahn",
 		Description = {
 			"Moonho Ahn tells you to come back when you're ready to play with him. You must beat him in order to get the recommendation letter.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3125] = {
 		Title = "Z Gang Wanted - Challenging Moonho Ahn",
 		Description = {
 			"You have beat Moonho Ahn. Go back to Marybell with the recommendation.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3126] = {
 		Title = "Z Gang Wanted - Information from Marybell",
 		Description = {
 			"Z Gang is related most of the trouble throughout the whole continent. You must find the informer for the Z Gang. Z Gang is secretly recruiting informers in Morocc.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3127] = {
 		Title = "Z Gang Wanted - Z Gang's Attack",
 		Description = {
 			"You got attacked by a suspicious man while gathering information in Morocc. Where did he run away?...Looks like this suspicious man is related to Z Gang. Track him down!",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3128] = {
 		Title = "Z Gang Wanted - Z Gang's Attack",
 		Description = {
 			"You found the Z Gang's informer. Z Gang's agit seems to be somewhere around the desert of Morocc... Go back to Marybell.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3129] = {
 		Title = "Z Gang Wanted - Strange Letter",
 		Description = {
 			"Marybell has got a sealed blank letter with encryption from the Z Gang's informer and asks the code breaker, Gooho Ahn, in Payon to break the encryption.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3130] = {
 		Title = "Z Gang Wanted - Decrypting the letter...",
 		Description = {
 			"It looks like a piece of blank paper, but if you add the right amount of heat and light, you can read its contents. You need to get some materials for this.",
 		},
-		Summary = "  ^0000ff20 Live Coals, 1 Matchstick, 2 Alcohol, 10 Burning Hearts^000000"
+		Summary = "^0000ff20 Live Coals, 1 Matchstick, 2 Alcohol, 10 Burning Hearts^000000"
 	},
 	[3131] = {
 		Title = "Z Gang Wanted - Code's Broken!",
 		Description = {
 			"According to Gooho Ahn, Aegye language is written in the paper. The password is ^0000ffWeii arr prowd Z G gna^000000 ^0000ffAynoen hwo sspotp uys^000000 ^0000ffwlil eb kckide on htier ssa!^000000",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3132] = {
 		Title = "Z Gang Wanted - Find the Z Gang's Agit",
 		Description = {
 			"You found out that there's is the entrance to Z Gang's hideouts in the desert of Southern Morocc. Maybe the password from Gooho Ahn will come in handy..",
 		},
-		Summary = "  ^0000ffWeii arr prowd Z G gna^000000 ^0000ffAynoen hwo sspotp uys^000000 ^0000ffwlil eb kckide on htier ssa!^000000"
+		Summary = "^0000ffWeii arr prowd Z G gna^000000 ^0000ffAynoen hwo sspotp uys^000000 ^0000ffwlil eb kckide on htier ssa!^000000"
 	},
 	[3133] = {
 		Title = "Z Gang Wanted - Agit Found!",
 		Description = {
 			"So this is the Agit? Let's find Z Gang members and beat'em up!",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3134] = {
 		Title = "Z Gang Wanted - Clean Sweep of Z Gang",
 		Description = {
 			"You captured Z Gang and obtained the Book of Forbidden Mystery. Go back to the Retired Soldier in Prontera.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3135] = {
 		Title = "Nidhoggur's Nest",
 		Description = {
 			"The ground trembles from Nidhoggur's awakening. Wait until the timer expires before you can regain access to the Dungeon.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3200] = {
 		Title = "Job Change to Rune Knight",
 		Description = {
 			"Go to the North Western corner of Glast Heim and find a Rune Knight who will guide you to the entrance to Glast Heim Tower.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3201] = {
 		Title = "Job Change to Rune Knight",
 		Description = {
 			"Search the Glast Heim Chivalry's second floor for the Rune Knight secret gathering area. Find a Rune Knight Staff member there who will guide you to the gathering area.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3202] = {
 		Title = "Job Change to Rune Knight",
 		Description = {
 			"The Rune Knight Captain Tigris says to go to Rune Knight Lunarea to start the first test to become a Rune Knight.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3203] = {
 		Title = "Job Change to Rune Knight",
 		Description = {
 			"Lunarea directs you to the first test room. Defeat all of the monsters summoned to pass the first test.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3204] = {
 		Title = "Job Change to Rune Knight",
 		Description = {
 			"Continue your test by talking to Captain Tigris.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3205] = {
 		Title = "Job Change to Rune Knight",
 		Description = {
 			"The next part of the test is to speak to Rune Knight Renoa in the library.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3206] = {
 		Title = "Job Change to Rune Knight",
 		Description = {
 			"Renoa says that studying is part of being a Rune Knight. Read all 3 books in the library thoroughly and talk to Renoa once you're done.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3207] = {
 		Title = "Job Change to Rune Knight",
 		Description = {
 			"Talk to the Laphine Sage Serpeone who is currently in the Rune Midgard's Camp in Ash Vacuum.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3208] = {
 		Title = "Job Change to Rune Knight",
 		Description = {
 			"A wise Sage Serpeone casts a spell on your body so that you can accumulate magic energy from other living things.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3209] = {
 		Title = "Dullahan Hunting",
@@ -5913,77 +5913,77 @@ QuestInfoList = {
 		Description = {
 			"You have accumulated enough magic energy in your body to become a Rune Knight. Talk to Sage Serpeone and she will send you to the Rune Knight Gathering area.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3214] = {
 		Title = "Job Change to Rune Knight",
 		Description = {
 			"Make 20 Rune stones with the Rune Furnace behind Renoa. The books in the library contain all of the accumulated knowledge about Rune Stones. Let Renoa know when you have 20.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3215] = {
 		Title = "Job Change to Rune Knight",
 		Description = {
 			"You passed Renoa's test. Go back to captain Tigris for the next part of the test.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3216] = {
 		Title = "Job Change to Rune Knight",
 		Description = {
 			"You have to take a test from Velpino at the right side of the Rune Knight Gathering area.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3217] = {
 		Title = "Job Change to Rune Knight",
 		Description = {
 			"Before taking the last test you need to remove all of your gear except for a one-handed weapon, shield or a two-handed weapon and you can't weigh over 400.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3218] = {
 		Title = "Job Change to Rune Knight",
 		Description = {
 			"You have passed the final test to become a Rune Knight. Talk to Rune Knight Velpino.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3219] = {
 		Title = "Job Change to Rune Knight",
 		Description = {
 			"You have completed all of the tests to become a Rune Knight. Speak to Rune Captain Tigris and be reborn as a noble Rune Knight.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3220] = {
 		Title = "Job Change to Rune Knight",
 		Description = {
 			"If you fail to pass the test, you have to wait 10 minutes before retrying again. Wait for the time limit to expire before trying again.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3250] = {
 		Title = "What is this Bandage?",
 		Description = {
 			"Hunt ^0000FF30 Mummy^000000 and collect 0000FF20 Rotten Bandage^000000. Report back to Sparkle at the Eden Group after the request is done.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3251] = {
 		Title = "Dangerous Alligators",
 		Description = {
 			"Hunt the Alligators that have been attacking people near the beach. Hunt 30 ^0000FFAlligator^000000. Report back to Sparkle at the Eden Group after the request is done.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3252] = {
 		Title = "That wasn't a mermaid...",
 		Description = {
 			"A request from an unknown client. Hunt 30 ^0000FFMerman^000000 in the Byalan dungeon. Report back to Sparkle at the Eden Group after the request is done.",
 		},
-		Summary = "  "
+		Summary = ""
 	},
 	[3253] = {
 		Title = "My country is calling me!",
@@ -7752,7 +7752,7 @@ QuestInfoList = {
 	[5019] = {
 		Title = "Bath Research Sampling",
 		Description = {
-			"A full-scale research has started. In order to start the research, they need a test-subject!  Let's go to the Bathtub and get 10 test-subjects in the name of research!",
+			"A full-scale research has started. In order to start the research, they need a test-subject! Let's go to the Bathtub and get 10 test-subjects in the name of research!",
 		},
 		Summary = "You can get test-subjects from the Bathtub."
 	},
@@ -7787,28 +7787,28 @@ QuestInfoList = {
 	[5024] = {
 		Title = "Eastern basin survey",
 		Description = {
-			"The researchers are saying that there are even more curious after finding the interesting DNA.  In order to satisfy their curiosity, they are requesting for you to go to the East Pool and collect more samples for them.",
+			"The researchers are saying that there are even more curious after finding the interesting DNA. In order to satisfy their curiosity, they are requesting for you to go to the East Pool and collect more samples for them.",
 		},
 		Summary = "Go to the East Pool and gather samples and bring it back to the researchers."
 	},
 	[5025] = {
 		Title = "Western basin survey",
 		Description = {
-			"The researchers are saying that there are even more curious after finding the interesting DNA.  In order to satisfy their curiosity, they are requesting for you to go to the West Pool and collect more samples for them.",
+			"The researchers are saying that there are even more curious after finding the interesting DNA. In order to satisfy their curiosity, they are requesting for you to go to the West Pool and collect more samples for them.",
 		},
 		Summary = "Go to the West Pool and gather samples and bring it back to the researchers."
 	},
 	[5026] = {
 		Title = "Southern basin survey",
 		Description = {
-			"The researchers are saying that there are even more curious after finding the interesting DNA.  In order to satisfy their curiosity, they are requesting for you to go to the South Pool and collect more samples for them.",
+			"The researchers are saying that there are even more curious after finding the interesting DNA. In order to satisfy their curiosity, they are requesting for you to go to the South Pool and collect more samples for them.",
 		},
 		Summary = "Go to the South Pool and gather samples and bring it back to the researchers."
 	},
 	[5027] = {
 		Title = "Northern basin survey",
 		Description = {
-			"The researchers are saying that there are even more curious after finding the interesting DNA.  In order to satisfy their curiosity, they are requesting for you to go to the North Pool and collect more samples for them.",
+			"The researchers are saying that there are even more curious after finding the interesting DNA. In order to satisfy their curiosity, they are requesting for you to go to the North Pool and collect more samples for them.",
 		},
 		Summary = "Go to the North Pool and gather samples and bring it back to the researchers."
 	},
@@ -10062,26 +10062,26 @@ QuestInfoList = {
 	[5392] = {
 		Title = "[Wait] Carnage of Private",
 		Description = {
-			" Carnage of Private. You need to wait 24hours to re-do the mission.",
+			"Carnage of Private. You need to wait 24hours to re-do the mission.",
 		},
 		Summary = ""
 	},
 	[5393] = {
-		Title = " Carnage of Private",
+		Title = "Carnage of Private",
 		Description = {
 			"Subjugate mission!! Kill 50 Private Deniros!!",
 		},
 		Summary = ""
 	},
 	[5394] = {
-		Title = " Carnage of Private",
+		Title = "Carnage of Private",
 		Description = {
 			"Subjugate mission!! Kill 50 Private Vitata!!",
 		},
 		Summary = ""
 	},
 	[5395] = {
-		Title = " Carnage of Private",
+		Title = "Carnage of Private",
 		Description = {
 			"Subjugate mission!! Kill 50 Private Andre!!",
 		},
@@ -12631,21 +12631,21 @@ QuestInfoList = {
 	[7001] = {
 		Title = "Job Change to Dancer!",
 		Description = {
-			"Certain materials are to be prepared before starting the dance lesson.  Confirm the gathered materials from Aile.",
+			"Certain materials are to be prepared before starting the dance lesson. Confirm the gathered materials from Aile.",
 		},
 		Summary = "Tuition fee of 10,000 Zeny, 20 Sticky Mucus, 5 Red Potions, 3 Jellopy, 1 pair of Shoes"
 	},
 	[7002] = {
 		Title = "Job Change to Dancer!",
 		Description = {
-			"Certain materials are to be prepared before starting the dance lesson.  Confirm the gathered materials from Aile.",
+			"Certain materials are to be prepared before starting the dance lesson. Confirm the gathered materials from Aile.",
 		},
 		Summary = "Tuition fee of 10,000 Zeny, 5 Earthworm Peelings, 1 pair of Boots"
 	},
 	[7003] = {
 		Title = "Job Change to Dancer!",
 		Description = {
-			"Certain materials are to be prepared before starting the dance lesson.  Confirm the gathered materials from Aile.",
+			"Certain materials are to be prepared before starting the dance lesson. Confirm the gathered materials from Aile.",
 		},
 		Summary = "Tuition fee of 10,000 Zeny, 2 Clam Shells, 5 Yellow Potions, 20 Jellopy, 10 Black Hairs, 1 pair of Sandals"
 	},
@@ -12659,7 +12659,7 @@ QuestInfoList = {
 	[7005] = {
 		Title = "Job Change to Dancer!",
 		Description = {
-			"Finally, it's time to take the Dance Test! You must dance with the given steps during the limited time.  Don't be too nervous!",
+			"Finally, it's time to take the Dance Test! You must dance with the given steps during the limited time. Don't be too nervous!",
 		},
 		Summary = "Lst's Dance!"
 	},
@@ -13016,7 +13016,7 @@ QuestInfoList = {
 	[7056] = {
 		Title = "Messenger - Arc's Favor",
 		Description = {
-			"At the Laphine's post, 'Splendide,' you met a Laphine, 'Arc' who asked you to find his friend, 'Terra.'  He says Terra usually leaves traces by tying plants into knots.",
+			"At the Laphine's post, 'Splendide,' you met a Laphine, 'Arc' who asked you to find his friend, 'Terra.' He says Terra usually leaves traces by tying plants into knots.",
 		},
 		Summary = "Find the traces of Terra."
 	},
@@ -13058,7 +13058,7 @@ QuestInfoList = {
 	[7062] = {
 		Title = "Messenger - Terra's Whereabouts",
 		Description = {
-			"You heard that the Laphine captured in Manuk is injured.  Maybe you'll be able to see her if you get some remedy.",
+			"You heard that the Laphine captured in Manuk is injured. Maybe you'll be able to see her if you get some remedy.",
 		},
 		Summary = "Ask Arc"
 	},
@@ -14108,7 +14108,7 @@ QuestInfoList = {
 	[7213] = {
 		Title = "Wandering Protector",
 		Description = {
-			"The thing that Loki was looking for was the Guardian of Niddhog who was wandering around the fog aimlessly.  Once out of the forest, agreed to meet in Mora Village.",
+			"The thing that Loki was looking for was the Guardian of Niddhog who was wandering around the fog aimlessly. Once out of the forest, agreed to meet in Mora Village.",
 		},
 		Summary = ""
 	},
@@ -15639,7 +15639,7 @@ QuestInfoList = {
 		Summary = "Wait until he is done reading the letter."
 	},
 	[7436] = {
-		Title = " Avant the Scholar of Magics",
+		Title = "Avant the Scholar of Magics",
 		Description = {
 			"In Kardui's letter, there was not only an introduction but also a request to look for his father, Avant the Scholar of Magics. Help Hisie to find out more about the scholar from within Eclage.",
 		},
@@ -15989,7 +15989,7 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[7487] = {
-		Title = " 30 second duel",
+		Title = "30 second duel",
 		Description = {
 			"Bet with Lumin. Within 30 seconds, kill 4 Porings in the Poring cage by using Envenom and speak to Lumin.",
 		},
@@ -16059,427 +16059,427 @@ QuestInfoList = {
 		Summary = "Suspicious Babee eliminated"
 	},
 	[7502] = {
-		Title = " 10 Suspicious Babes",
+		Title = "10 Suspicious Babes",
 		Description = {
 			"A request to eliminate Suspicious Babes that appear during Multiplayer Battle Arena hours at the fortress in Gloria in Multiplayer Battle Arena TE. Target number: 10 Babees.",
 		},
 		Summary = "Suspicious Babes eliminated"
 	},
 	[7503] = {
-		Title = " 30 Suspicious Babes",
+		Title = "30 Suspicious Babes",
 		Description = {
 			"A request to eliminate Suspicious Babes that appear during Multiplayer Battle Arena hours at the fortress in Gloria in Multiplayer Battle Arena TE. Target number: 30 Babees.",
 		},
 		Summary = "Suspicious Babes eliminated"
 	},
 	[7504] = {
-		Title = " Destroy 1 Emperium",
+		Title = "Destroy 1 Emperium",
 		Description = {
 			"Emperium destroying, the flower of Multiplayer Battle Arena! Destroy at least 1 Emperium appearing at the fortresses in Gloria and Kafragaten in Multiplayer Battle Arena. Target number: 1 Emperium",
 		},
 		Summary = "Emperium destroyed"
 	},
 	[7505] = {
-		Title = " Destroy 3 Emperiums",
+		Title = "Destroy 3 Emperiums",
 		Description = {
 			"Emperium destroying, the flower of Multiplayer Battle Arena! Destroy at least 3 Emperiums appearing at the fortresses in Gloria and Kafragaten in Multiplayer Battle Arena. Target number: 3 Emperiums",
 		},
 		Summary = "Emperiums destroyed"
 	},
 	[7506] = {
-		Title = " Destroy 5 Emperiums",
+		Title = "Destroy 5 Emperiums",
 		Description = {
 			"Emperium destroying, the flower of Multiplayer Battle Arena! Destroy at least 5 Emperiums appearing at the fortresses in Gloria and Kafragaten in Multiplayer Battle Arena. Target number: 5 Emperiums",
 		},
 		Summary = "Emperiums destroyed"
 	},
 	[7507] = {
-		Title = " 10 Small Wooden Boxes",
+		Title = "10 Small Wooden Boxes",
 		Description = {
 			"Suspicious Babes have stolen many small wooden boxes at the fortress in Gloria. Collect 10 wooden boxes during Multiplayer Battle Arena TE hours.",
 		},
 		Summary = "10 Small Wooden Boxes"
 	},
 	[7508] = {
-		Title = " 20 Small Wooden Boxes",
+		Title = "20 Small Wooden Boxes",
 		Description = {
 			"Suspicious Babes have stolen many small wooden boxes at the fortress in Gloria. Collect 20 wooden boxes during Multiplayer Battle Arena TE hours.",
 		},
 		Summary = "20 Small Wooden Boxes"
 	},
 	[7509] = {
-		Title = " 30 Small Wooden Boxes",
+		Title = "30 Small Wooden Boxes",
 		Description = {
 			"Suspicious Babes have stolen many small wooden boxes at the fortress in Gloria. Collect 30 wooden boxes during Multiplayer Battle Arena TE hours.",
 		},
 		Summary = "30 Small Wooden Boxes"
 	},
 	[7510] = {
-		Title = " Fight Off 1 Thief",
+		Title = "Fight Off 1 Thief",
 		Description = {
 			"A request to fight off Poring the Thief that appears during Multiplayer Battle Arena hours at the fortress in Gloria in Multiplayer Battle Arena TE. Target number: 1 Poring.",
 		},
 		Summary = "Eliminate Poring"
 	},
 	[7511] = {
-		Title = " Fight Off 10 Thief",
+		Title = "Fight Off 10 Thief",
 		Description = {
 			"A request to fight off Poring the Thief that appears during Multiplayer Battle Arena hours at the fortress in Gloria in Multiplayer Battle Arena TE. Target number: 10 Porings.",
 		},
 		Summary = "Eliminate Poring"
 	},
 	[7512] = {
-		Title = " Fight Off 30 Thief",
+		Title = "Fight Off 30 Thief",
 		Description = {
 			"A request to fight off Poring the Thief that appears during Multiplayer Battle Arena hours at the fortress in Gloria in Multiplayer Battle Arena TE. Target number: 30 Porings.",
 		},
 		Summary = "Eliminate Poring"
 	},
 	[7513] = {
-		Title = " 10 Paychecks",
+		Title = "10 Paychecks",
 		Description = {
 			"Looks like Poring the Thief stole paychecks from the Kafra shop. Find paychecks back. Target number: 10 paychecks",
 		},
 		Summary = "10 paychecks from the Kafra shop"
 	},
 	[7514] = {
-		Title = " 20 Paychecks",
+		Title = "20 Paychecks",
 		Description = {
 			"Looks like Poring the Thief stole paychecks from the Kafra shop. Find paychecks back. Target number: 20 paychecks",
 		},
 		Summary = "20 paychecks from the Kafra shop"
 	},
 	[7515] = {
-		Title = " 30 Paychecks",
+		Title = "30 Paychecks",
 		Description = {
 			"Looks like Poring the Thief stole paychecks from the Kafra shop. Find paychecks back. Target number: 30 paychecks",
 		},
 		Summary = "30 paychecks from the Kafra shop"
 	},
 	[7516] = {
-		Title = " a Break for Commercial Development",
+		Title = "a Break for Commercial Development",
 		Description = {
 			"Destroying Emperiums repeatedly staggers commercial development. Give it some time to maintain its commercial development.",
 		},
 		Summary = "20-minute Break"
 	},
 	[7517] = {
-		Title = " Occupy Valkyrie Realm",
+		Title = "Occupy Valkyrie Realm",
 		Description = {
 			"Occupation of a fortress in Valkyrie Realm has been reported. Next report can be made after 1 hour.",
 		},
 		Summary = "1-hour Standby"
 	},
 	[7518] = {
-		Title = " Occupy Luina",
+		Title = "Occupy Luina",
 		Description = {
 			"Occupation of a fortress in Luina has been reported. Next report can be made after 1 hour.",
 		},
 		Summary = "1-hour Standby"
 	},
 	[7519] = {
-		Title = " Occupy Britoniah",
+		Title = "Occupy Britoniah",
 		Description = {
 			"Occupation of a fortress in Britoniah has been reported. Next report can be made after 1 hour.",
 		},
 		Summary = "1-hour Standby"
 	},
 	[7520] = {
-		Title = " Occupy Greenwood Lake",
+		Title = "Occupy Greenwood Lake",
 		Description = {
 			"Occupation of a fortress in Greenwood Lake has been reported. Next report can be made after 1 hour.",
 		},
 		Summary = "1-hour Standby"
 	},
 	[7521] = {
-		Title = " Occupy Nidabehl",
+		Title = "Occupy Nidabehl",
 		Description = {
 			"Occupation of a fortress in Nidabehl has been reported. Next report can be made after 1 hour.",
 		},
 		Summary = "1-hour Standby"
 	},
 	[7522] = {
-		Title = " Occupy Valfreyja",
+		Title = "Occupy Valfreyja",
 		Description = {
 			"Occupation of a fortress in Valfreyja has been reported. Next report can be made after 1 hour.",
 		},
 		Summary = "1-hour Standby"
 	},
 	[7523] = {
-		Title = " Occupy Gloria",
+		Title = "Occupy Gloria",
 		Description = {
 			"Occupation of a fortress in Gloria has been reported. Next report can be made after 1 hour.",
 		},
 		Summary = "1-hour Standby"
 	},
 	[7524] = {
-		Title = " Occupy Kafragaten",
+		Title = "Occupy Kafragaten",
 		Description = {
 			"Occupation of a fortress in Kafragaten has been reported. Next report can be made after 1 hour.",
 		},
 		Summary = "1-hour Standby"
 	},
 	[7525] = {
-		Title = " Valkyrie Realm Challenge 1",
+		Title = "Valkyrie Realm Challenge 1",
 		Description = {
 			"On the first floor of Valkyrie Realm guild dungeon, fight off 50 Caterpillars and Creamy Fears respectively.",
 		},
 		Summary = "Monsters eliminated from the first floor of guild dungeon"
 	},
 	[7526] = {
-		Title = " Valkyrie Realm Challenge 2",
+		Title = "Valkyrie Realm Challenge 2",
 		Description = {
 			"On the second floor of Valkyrie Realm guild dungeon, fight off 3 types of Abysmal Kobold (30 of each type).",
 		},
 		Summary = "Monsters eliminated from the second floor of guild dungeon"
 	},
 	[7527] = {
-		Title = " Valkyrie Realm Challenge 3",
+		Title = "Valkyrie Realm Challenge 3",
 		Description = {
 			"Fight off Pyuriel the Furious Outcast and Lora the Warrior in the Road of Warriors in Corridor of the Abyss in Valkyrie Realm.",
 		},
 		Summary = "Battle in Corridor of the Abyss"
 	},
 	[7528] = {
-		Title = " Luina Challenge 1",
+		Title = "Luina Challenge 1",
 		Description = {
 			"On the first floor of Luina guild dungeon, fight off 50 Giant Hornets and Ancient Worms respectively.",
 		},
 		Summary = "Monsters eliminated from the first floor of guild dungeon"
 	},
 	[7529] = {
-		Title = " Luina Challenge 2",
+		Title = "Luina Challenge 2",
 		Description = {
 			"On the second floor of Luina guild dungeon, fight off 40 Killer Mantises and 50 Angra Mantises.",
 		},
 		Summary = "Monsters eliminated from the second floor of guild dungeon"
 	},
 	[7530] = {
-		Title = " Luina Challenge 3",
+		Title = "Luina Challenge 3",
 		Description = {
 			"루이나지역 심연의 회랑 '영웅의 눈물'에 등장하는 지오이아와 엘비아를 처치하라."
 		},
 		Summary = "심연의 회랑 전투"
 	},
 	[7531] = {
-		Title = " Britoniah Challenge 1",
+		Title = "Britoniah Challenge 1",
 		Description = {
 			"On the first floor of Britoniah guild dungeon, fight off 50 Zombie Masters and Wraith Deads respectively.",
 		},
 		Summary = "Monsters eliminated from the first floor of guild dungeon"
 	},
 	[7532] = {
-		Title = " Britoniah Challenge 2",
+		Title = "Britoniah Challenge 2",
 		Description = {
 			"On the second floor of Britoniah guild dungeon, fight off 20 Abysmal Dark Frames, 20 Abysmal Dark Priests, 50 Abysmal Dark Shadows.",
 		},
 		Summary = "Monsters eliminated from the second floor of guild dungeon"
 	},
 	[7533] = {
-		Title = " Britoniah Challenge 3",
+		Title = "Britoniah Challenge 3",
 		Description = {
 			"브리토리아지역 심연의 회랑 '망자의 언덕'에 등장하는 망자의 수호자 카데스와 루도를 처치하라."
 		},
 		Summary = "심연의 회랑 전투"
 	},
 	[7534] = {
-		Title = " Greenwood Lake Challenge 1",
+		Title = "Greenwood Lake Challenge 1",
 		Description = {
 			"On the first floor of Greenwood Lake guild dungeon, fight off 50 Gullinbrustis and Leib Olmais respectively.",
 		},
 		Summary = "Monsters eliminated from the first floor of guild dungeon"
 	},
 	[7535] = {
-		Title = " Greenwood Lake Challenge 2",
+		Title = "Greenwood Lake Challenge 2",
 		Description = {
 			"On the second floor of Greenwood Lake guild dungeon, fight off 45 Skeleton Generals, 20 Am Muts, and 25 Gajomarts.",
 		},
 		Summary = "Monsters eliminated from the second floor of guild dungeon"
 	},
 	[7536] = {
-		Title = " Greenwood Lake Challenge 3",
+		Title = "Greenwood Lake Challenge 3",
 		Description = {
 			"Fight off General Daehyeon and Warrior Soheon in the Ancient Wind in in Corridor of the Abyss in Greenwood Lake.",
 		},
 		Summary = "Battle in Corridor of the Abyss"
 	},
 	[7537] = {
-		Title = " Nidabehl Challenge 1",
+		Title = "Nidabehl Challenge 1",
 		Description = {
 			"Fight off 50 Hell Apocalypses and Zakudams respectively in Nidabehl guild dungeon.",
 		},
 		Summary = "Monsters eliminated from guild dungeon 1"
 	},
 	[7538] = {
-		Title = " Nidabehl Challenge 2",
+		Title = "Nidabehl Challenge 2",
 		Description = {
 			"Fight off 35 Heavy Metalings and 35 Cobalt Minerals in Nidabehl guild dungeon.",
 		},
 		Summary = "Monsters eliminated from guild dungeon 2"
 	},
 	[7539] = {
-		Title = " Valfreyja Challenge 1",
+		Title = "Valfreyja Challenge 1",
 		Description = {
 			"Fight off 50 Banshee Masters and 30 Beholder Masters in Valfreyja guild dungeon.",
 		},
 		Summary = "Monsters eliminated from guild dungeon 1"
 	},
 	[7540] = {
-		Title = " Valfreyja Challenge 2",
+		Title = "Valfreyja Challenge 2",
 		Description = {
 			"Fight off 50 Aunoes and 20 Fanats in Valfreyja guild dungeon.",
 		},
 		Summary = "Monsters eliminated from guild dungeon 2"
 	},
 	[7541] = {
-		Title = " Gloria Challenge 1",
+		Title = "Gloria Challenge 1",
 		Description = {
 			"Fight off 30 Knights, Assassins, and Blacksmiths respectively in Gloria guild dungeon.",
 		},
 		Summary = "Monsters eliminated from guild dungeon 1"
 	},
 	[7542] = {
-		Title = " Gloria Challenge 2",
+		Title = "Gloria Challenge 2",
 		Description = {
 			"Fight off 30 Wizards, Priests, and Hunters respectively in Gloria guild dungeon.",
 		},
 		Summary = "Monsters eliminated from guild dungeon 2"
 	},
 	[7543] = {
-		Title = " Standby for Valkyrie Realm Challenge 1",
+		Title = "Standby for Valkyrie Realm Challenge 1",
 		Description = {
 			"You have completed Valkyrie Realm Challenge 1 already. To challenge again, come back after 1 day.",
 		},
 		Summary = "Take a day off."
 	},
 	[7544] = {
-		Title = " Standby for Valkyrie Realm Challenge 2",
+		Title = "Standby for Valkyrie Realm Challenge 2",
 		Description = {
 			"You have completed Valkyrie Realm Challenge 2 already. To challenge again, come back after 1 day.",
 		},
 		Summary = "Take a day off."
 	},
 	[7545] = {
-		Title = " Standby for Valkyrie Realm Challenge 3",
+		Title = "Standby for Valkyrie Realm Challenge 3",
 		Description = {
 			"You have completed Valkyrie Realm Challenge 3 already. To challenge again, come back after 1 week.",
 		},
 		Summary = "See you next week!"
 	},
 	[7546] = {
-		Title = " Standby for Luina Challenge 1",
+		Title = "Standby for Luina Challenge 1",
 		Description = {
 			"You have completed Luina Challenge 1 already. To challenge again, come back after 1 day.",
 		},
 		Summary = "Take a day off."
 	},
 	[7547] = {
-		Title = " Standby for Luina Challenge 2",
+		Title = "Standby for Luina Challenge 2",
 		Description = {
 			"You have completed Luina Challenge 2 already. To challenge again, come back after 1 day.",
 		},
 		Summary = "Take a day off."
 	},
 	[7548] = {
-		Title = " Standby for Luina Challenge 3",
+		Title = "Standby for Luina Challenge 3",
 		Description = {
 			"You have completed Luina Challenge 3 already. To challenge again, come back after 1 week.",
 		},
 		Summary = "See you next week!"
 	},
 	[7549] = {
-		Title = " Standby for Britoniah Challenge 1",
+		Title = "Standby for Britoniah Challenge 1",
 		Description = {
 			"You have completed Britoniah Challenge 1 already. To challenge again, come back after 1 day.",
 		},
 		Summary = "Take a day off."
 	},
 	[7550] = {
-		Title = " Standby for Britoniah Challenge 2",
+		Title = "Standby for Britoniah Challenge 2",
 		Description = {
 			"You have completed Britoniah Challenge 2 already. To challenge again, come back after 1 day.",
 		},
 		Summary = "Take a day off."
 	},
 	[7551] = {
-		Title = " Standby for Britoniah Challenge 3",
+		Title = "Standby for Britoniah Challenge 3",
 		Description = {
 			"You have completed Britoniah Challenge 3 already. To challenge again, come back after 1 week.",
 		},
 		Summary = "See you next week!"
 	},
 	[7552] = {
-		Title = " Standby for Greenwood Lake Challenge 1",
+		Title = "Standby for Greenwood Lake Challenge 1",
 		Description = {
 			"You have completed Greenwood Lake Challenge 1 already. To challenge again, come back after 1 day.",
 		},
 		Summary = "Take a day off."
 	},
 	[7553] = {
-		Title = " Standby for Greenwood Lake Challenge 2",
+		Title = "Standby for Greenwood Lake Challenge 2",
 		Description = {
 			"You have completed Greenwood Lake Challenge 2 already. To challenge again, come back after 1 day.",
 		},
 		Summary = "Take a day off."
 	},
 	[7554] = {
-		Title = " Standby for Greenwood Lake Challenge 3",
+		Title = "Standby for Greenwood Lake Challenge 3",
 		Description = {
 			"You have completed Greenwood Lake Challenge 3 already. To challenge again, come back after 1 week.",
 		},
 		Summary = "See you next week!"
 	},
 	[7555] = {
-		Title = " Standby for Nidabehl Challenge 1",
+		Title = "Standby for Nidabehl Challenge 1",
 		Description = {
 			"You have completed Nidabehl Challenge 1 already. To challenge again, come back after 1 day.",
 		},
 		Summary = "Take a day off."
 	},
 	[7556] = {
-		Title = " Standby for Nidabehl Challenge 2",
+		Title = "Standby for Nidabehl Challenge 2",
 		Description = {
 			"You have completed Nidabehl Challenge 2 already. To challenge again, come back after 1 day.",
 		},
 		Summary = "Take a day off."
 	},
 	[7557] = {
-		Title = " Standby for Valfreyja Challenge 1",
+		Title = "Standby for Valfreyja Challenge 1",
 		Description = {
 			"You have completed Valfreyja Challenge 1 already. To challenge again, come back after 1 day.",
 		},
 		Summary = "Take a day off."
 	},
 	[7558] = {
-		Title = " Standby for Valfreyja Challenge 2",
+		Title = "Standby for Valfreyja Challenge 2",
 		Description = {
 			"You have completed Valfreyja Challenge 2 already. To challenge again, come back after 1 day.",
 		},
 		Summary = "Take a day off."
 	},
 	[7559] = {
-		Title = " Standby for Gloria Challenge 1",
+		Title = "Standby for Gloria Challenge 1",
 		Description = {
 			"You have completed Gloria Challenge 1 already. To challenge again, come back after 1 day.",
 		},
 		Summary = "Take a day off."
 	},
 	[7560] = {
-		Title = " Standby for Gloria Challenge 2",
+		Title = "Standby for Gloria Challenge 2",
 		Description = {
 			"You have completed Gloria Challenge 2 already. To challenge again, come back after 1 day.",
 		},
 		Summary = "Take a day off."
 	},
 	[7561] = {
-		Title = " Kafragaten Challenge 1",
+		Title = "Kafragaten Challenge 1",
 		Description = {
 			"Fight off 30 Crusaders, Rogues, and Alchemists respectively in Kafragaten guild dungeon.",
 		},
 		Summary = "Monsters eliminated from guild dungeon 1"
 	},
 	[7562] = {
-		Title = " Kafragaten Challenge 2",
+		Title = "Kafragaten Challenge 2",
 		Description = {
 			"Fight off 30 Sages, Monks, and Bards respectively in Kafragaten guild dungeon.",
 		},
@@ -16493,7 +16493,7 @@ QuestInfoList = {
 		Summary = "Take a day off."
 	},
 	[7564] = {
-		Title = " Standby for Kafragaten Challenge 2",
+		Title = "Standby for Kafragaten Challenge 2",
 		Description = {
 			"You have completed Kafragaten Challenge 2 already. To challenge again, come back after 1 day.",
 		},
@@ -18749,7 +18749,7 @@ QuestInfoList = {
 	[8086] = {
 		Title = "Klitzer and Calla",
 		Description = {
-			"Eh...?  What did you just say? Did you just say that Calla's mother wants me to have tea with her? Holy moley...!!",
+			"Eh...? What did you just say? Did you just say that Calla's mother wants me to have tea with her? Holy moley...!!",
 		},
 		Summary = ""
 	},
@@ -19022,7 +19022,7 @@ QuestInfoList = {
 	[8125] = {
 		Title = "Ayotaya's world famous dish, Tom Yum Goong",
 		Description = {
-			"Mali the Spicy has found a very nice lemon tree around, however, those lemons were not for sale.  You must get some lemon from the owner of the lemon tree.",
+			"Mali the Spicy has found a very nice lemon tree around, however, those lemons were not for sale. You must get some lemon from the owner of the lemon tree.",
 		},
 		Summary = "Bring 10 lemons to Mali the Spicy."
 	},
@@ -19071,7 +19071,7 @@ QuestInfoList = {
 	[8132] = {
 		Title = "The mother of lord in Amatsu",
 		Description = {
-			"You, who hail from Rune-Midgard,  may be able to cure my mother's disease. I will reward you well if you succeed.. My mother is living in a house outside of the palace. Come to me when you finish your treatment.",
+			"You, who hail from Rune-Midgard, may be able to cure my mother's disease. I will reward you well if you succeed.. My mother is living in a house outside of the palace. Come to me when you finish your treatment.",
 		},
 		Summary = "Find the treatment to cure the mother of lord."
 	},
@@ -19281,7 +19281,7 @@ QuestInfoList = {
 	[8163] = {
 		Title = "Baba Yaga's Favor",
 		Description = {
-			"Baba Yaga has asked you to do her a favor and  find a way to quiet the House ghost living in a jar next to her cabin in exchange for her making the Golden Key for you.",
+			"Baba Yaga has asked you to do her a favor and find a way to quiet the House ghost living in a jar next to her cabin in exchange for her making the Golden Key for you.",
 		},
 		Summary = ""
 	},
@@ -19722,7 +19722,7 @@ QuestInfoList = {
 	[8226] = {
 		Title = "Bankley's Death",
 		Description = {
-			"-He's dead!  Bankley had a sad, pitiable expression on his face. Since the color is still fresh in his cheeks, he died only a little while ago. here is a long, deep wound in his chest, and a blood drenched knife is clenched in his right hand.-",
+			"-He's dead! Bankley had a sad, pitiable expression on his face. Since the color is still fresh in his cheeks, he died only a little while ago. here is a long, deep wound in his chest, and a blood drenched knife is clenched in his right hand.-",
 		},
 		Summary = "Report Bankley's Death to Dequ'ee"
 	},
@@ -19766,7 +19766,7 @@ QuestInfoList = {
 		Description = {
 			"\"Alright! Now, in order to become closer towards becoming a true Merchant, I want you to learn the Discount skill up to Level 4.\"",
 		},
-		Summary = "Return to Guarnien after mastering the skill,  Discount"
+		Summary = "Return to Guarnien after mastering the skill, Discount"
 	},
 	[8233] = {
 		Title = "Guarnien's Lecture",
@@ -19794,7 +19794,7 @@ QuestInfoList = {
 		Description = {
 			"\"Like Discount, Over Charge is a Passive skill that can be mastered at Skill Level 10. Personally, I think you should learn this skill for sure! For your next assignment, learn Over Charge up to Level 4. It shouldn't be too difficult to do.\"",
 		},
-		Summary = "Return to Guarnien after mastering the skill,  Over Charge"
+		Summary = "Return to Guarnien after mastering the skill, Over Charge"
 	},
 	[8237] = {
 		Title = "Guarnien's Lecture",
@@ -20035,7 +20035,7 @@ QuestInfoList = {
 		Summary = "Deliver the Honey"
 	},
 	[8273] = {
-		Title = "Deliver a  blanket!",
+		Title = "Deliver a blanket!",
 		Description = {
 			"Find Dieshin Man at the Morocc Ruins and bring his Delivery Box to a Biologist somewhere in Lutie Field.",
 		},
@@ -20905,7 +20905,7 @@ QuestInfoList = {
 	[9006] = {
 		Title = "Tenacity of a Knight",
 		Description = {
-			"'Sir Windsor' never talks much.  He orders you to kill all the monsters inside the testing hall.",
+			"'Sir Windsor' never talks much. He orders you to kill all the monsters inside the testing hall.",
 		},
 		Summary = "Kill all monsters in 3 minutes"
 	},
@@ -20968,7 +20968,7 @@ QuestInfoList = {
 	[9015] = {
 		Title = "Job Change to Wizard",
 		Description = {
-			"You passed the first test by 'Catherine.'  She says you should go see the Gloomy Wizard.",
+			"You passed the first test by 'Catherine.' She says you should go see the Gloomy Wizard.",
 		},
 		Summary = "Find and have a conversation with 'Gloomy Wizard.'"
 	},
@@ -21855,21 +21855,21 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[9291] = {
-		Title = " participate in Magic competitions",
+		Title = "participate in Magic competitions",
 		Description = {
 			"Let's participate in ^8B4513 Magic Competition^000000 after talking to the Receptionist at the south fountain.",
 		},
 		Summary = ""
 	},
 	[9292] = {
-		Title = " participate in Magic competitions",
+		Title = "participate in Magic competitions",
 		Description = {
 			"Let's participate in ^8B4513 Magic Competition^000000 after talking to the Receptionist at the south fountain.",
 		},
 		Summary = ""
 	},
 	[9293] = {
-		Title = " Register in Magic Competition",
+		Title = "Register in Magic Competition",
 		Description = {
 			"Eliminate 1 ^0000FFDesert Wolf^000000 to participate in ^8B4513Magic Competition^000000.",
 		},
@@ -21967,21 +21967,21 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[9307] = {
-		Title = " Final match of the Competition has started",
+		Title = "Final match of the Competition has started",
 		Description = {
 			"Must defeat the ^8B4513Final match competitor^000000",
 		},
 		Summary = "Defeat ^8B45131Fenrir^000000"
 	},
 	[9308] = {
-		Title = " Magic Competition Win~!.",
+		Title = "Magic Competition Win~!.",
 		Description = {
 			"Win at ^8B4513Magic Competition^^000000 and return to the scholar researching the dimensional gap near the entrance to the tournament.",
 		},
 		Summary = ""
 	},
 	[9309] = {
-		Title = " Magic competitions^defeat",
+		Title = "Magic competitions^defeat",
 		Description = {
 			"Defeated at the ^8B4513Magic competitions^^000000 Return to the scholar researching with what you found.",
 		},
@@ -22016,7 +22016,7 @@ QuestInfoList = {
 		Summary = "Speak with^8B4513 Fenrir^000000"
 	},
 	[9314] = {
-		Title = " Encounter Loki",
+		Title = "Encounter Loki",
 		Description = {
 			"Speak with ^8B4513Loki^000000 to receive a small gift",
 		},
@@ -23999,7 +23999,7 @@ QuestInfoList = {
 	[11030] = {
 		Title = "Going to the Turtle Island..",
 		Description = {
-			"The clue to the place is ^FF3355- tur_dun01  X : 160 . Y : 81 -^000000",
+			"The clue to the place is ^FF3355- tur_dun01 X : 160 . Y : 81 -^000000",
 		},
 		Summary = "You've taken the Skull key, as it may be of some use later. Let's go following the clue."
 	},
@@ -24622,14 +24622,14 @@ QuestInfoList = {
 	[11119] = {
 		Title = "Pest control",
 		Description = {
-			"Hunt 20  ^4d4dffThief Bug Egg^000000s in western culvert of Prontera and get 10 ^4d4dffChrysalis^000000.",
+			"Hunt 20 ^4d4dffThief Bug Egg^000000s in western culvert of Prontera and get 10 ^4d4dffChrysalis^000000.",
 		},
 		Summary = ""
 	},
 	[11120] = {
 		Title = "Muka Hunting",
 		Description = {
-			"Hunt 20  ^4d4dff'Muka'^000000 in what remains of the Sograt Desert south of Prontera.",
+			"Hunt 20 ^4d4dff'Muka'^000000 in what remains of the Sograt Desert south of Prontera.",
 		},
 		Summary = ""
 	},
@@ -25275,7 +25275,7 @@ QuestInfoList = {
 		Description = {
 			"Let me tell you about the production of study.",
 		},
-		Summary = "Let's hear Llinguist  Devore's production of study."
+		Summary = "Let's hear Llinguist Devore's production of study."
 	},
 	[11213] = {
 		Title = "Malangdo regular meeting",
@@ -25336,7 +25336,7 @@ QuestInfoList = {
 	[11221] = {
 		Title = "The most soft jelly in the world",
 		Description = {
-			"If you need more detail, please ask my  ^6666ccassistant Bob^000000. He might be at ^6666ccright next room^000000.",
+			"If you need more detail, please ask my ^6666ccassistant Bob^000000. He might be at ^6666ccright next room^000000.",
 		},
 		Summary = "Let's meet the assistant Bob."
 	},
@@ -27051,7 +27051,7 @@ QuestInfoList = {
 	[11487] = {
 		Title = "Jakk and Jakk's cat",
 		Description = {
-			"A  small, white object quickly passed the entrance not so long ago. They are not sure if it was a cat. Let's ask the guy outside the entrance.",
+			"A small, white object quickly passed the entrance not so long ago. They are not sure if it was a cat. Let's ask the guy outside the entrance.",
 		},
 		Summary = "Talk to nervous Jakk"
 	},
@@ -28115,7 +28115,7 @@ QuestInfoList = {
 	[12073] = {
 		Title = "Cruiser Hunting",
 		Description = {
-			"I heard  of some toys attacking people. It is ridiculous! Let's show them our power! We have to hunt 15 Cruiser at the Toy Dungeon at Lutie. Talk to Rakkis at Eden Group for your reward.",
+			"I heard of some toys attacking people. It is ridiculous! Let's show them our power! We have to hunt 15 Cruiser at the Toy Dungeon at Lutie. Talk to Rakkis at Eden Group for your reward.",
 		},
 		Summary = "Hunt 15 Cruisers"
 	},
@@ -29263,14 +29263,14 @@ QuestInfoList = {
 	[12245] = {
 		Title = "Information on missing person Messil",
 		Description = {
-			"Age unknown. Has little bit of a mental illness.  He went alone in order to purify the Maze of the Hazy forest.",
+			"Age unknown. Has little bit of a mental illness. He went alone in order to purify the Maze of the Hazy forest.",
 		},
 		Summary = "Search the Fog Maze Forest around 14, 24"
 	},
 	[12246] = {
 		Title = "Information on missing person Noirit",
 		Description = {
-			"Age 51. He used to be a biggest thief who stole famous swords from all over the  world. He's gone missing in the Maze after being pursued for running illegal casino house which caused massive casualties in his final years.",
+			"Age 51. He used to be a biggest thief who stole famous swords from all over the world. He's gone missing in the Maze after being pursued for running illegal casino house which caused massive casualties in his final years.",
 		},
 		Summary = "Search the Fog Maze Forest around 19, 27"
 	},
@@ -31270,7 +31270,7 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[13111] = {
-		Title = "Thanatos Tower  Search - Reporting results",
+		Title = "Thanatos Tower Search - Reporting results",
 		Description = {
 			"We found terms of adventurer. Let's go back and report to Aigoo.",
 		},
@@ -31566,7 +31566,7 @@ QuestInfoList = {
 	[13153] = {
 		Title = "Laurell Story",
 		Description = {
-			"Let's find  Laurell Weinder's story in lighthalzen",
+			"Let's find Laurell Weinder's story in lighthalzen",
 		},
 		Summary = "Eliminate 30 Laurell Weinder"
 	},
@@ -34844,7 +34844,7 @@ QuestInfoList = {
 		Description = {
 			"I would never hang out with Basilisk. So get me 20 Basils and 5 Basilrocks. Ofcourse there will be a treat.",
 		},
-		Summary = "Basil and  Basilrock"
+		Summary = "Basil and Basilrock"
 	},
 	[14559] = {
 		Title = "Charm Effect Duration",
@@ -37215,7 +37215,7 @@ QuestInfoList = {
 	[16058] = {
 		Title = "Wing Of Crow",
 		Description = {
-			"You found the witch Kirkena and told her about Alakina Ann.  She gave you a Wing Of Crow to send her back to her home.",
+			"You found the witch Kirkena and told her about Alakina Ann. She gave you a Wing Of Crow to send her back to her home.",
 		},
 		Summary = "Alakina Ann"
 	},
@@ -37733,7 +37733,7 @@ QuestInfoList = {
 	[16132] = {
 		Title = "Kiel Hyre Academy",
 		Description = {
-			"Go to the Kiel Hyre Mansion in Lighthalzen. It is located just north of the Auction Hall.  Present the Golden Key to be admitted to the premises.",
+			"Go to the Kiel Hyre Mansion in Lighthalzen. It is located just north of the Auction Hall. Present the Golden Key to be admitted to the premises.",
 		},
 		Summary = ""
 	},
