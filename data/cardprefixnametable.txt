@@ -890,22 +890,22 @@
 27224#하프 오브 데빌리시#
 27225#하프현인의#
 
-4492#하프뉴트럴#
-4498#하프마나풀#
+4492#half neutral#
+4498#Sealed Manaful#
 4484#Of Half Gemstone#
-4499#하프블러디러스트#
-4500#하프미러#
-4501#하프프로텍션#
-4502#오브 하프홀그랜#
-4504#하프베어러즈#
+4499#Half Bloodlust#
+4500#Sealed Mirror#
+4501#Sealed Protection#
+4502#Sealed Hollgrehenn#
+4504#Sealed Bearer's#
 4481#Half Jack Frost#
 
 //일루전 오브 루안다
-27291#풀차징#
-27292#오브 스터랙틱#
-27293#서클러#
-27294#오브 빅스톤#
-27295#오브 스톤슈터#
-27296#오브 우탄슈터#
-27297#우탄피스트#
-27298#오브 빅쉴더#
+27291#Full Charging#
+27292#of Stalactic#
+27293#Circular#
+27294#of Big Stone#
+27295#of Stone Shooter#
+27296#of Wootan Shooter#
+27297#Wootan Fist#
+27298#of Big Shield#
