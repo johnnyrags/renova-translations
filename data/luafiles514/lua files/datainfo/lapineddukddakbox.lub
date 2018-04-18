@@ -5862,11 +5862,6 @@ tblLapineDdukddakBox = {
 					31396
 				},
 				{
-					"C_Blinking_Thin_Eyes",
-					1,
-					31398
-				},
-				{
 					"C_Baby_Penguin",
 					1,
 					31437
@@ -5885,6 +5880,26 @@ tblLapineDdukddakBox = {
 					"C_GiantCatBag_TW",
 					1,
 					20517
+				},
+				{
+					"C_Luwmin_Ice",
+					1,
+					31432
+				},
+				{
+					"C요마의휴일",
+					1,
+					31314
+				},
+				{
+					"C_Blessing_Sky_Lantern",
+					1,
+					31460
+				},
+				{
+					"C_Blinking_Thin_Eyes",
+					1,
+					31398
 				}
 			},
 			NeedSource_String = "냥다래 의상"

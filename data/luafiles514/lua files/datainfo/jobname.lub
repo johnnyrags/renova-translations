@@ -3867,5 +3867,16 @@ JobNameTable = {
 	[jobtbl.JT_G_ILL_TEDDY_BEAR_Y] = "teddy_bear_y",
 	[jobtbl.JT_G_ILL_TEDDY_BEAR_G] = "teddy_bear_g",
 	[jobtbl.JT_G_ILL_TEDDY_BEAR_W] = "teddy_bear_w",
-	[jobtbl.JT_G_ILL_TEDDY_BEAR_B] = "teddy_bear_b"
+	[jobtbl.JT_G_ILL_TEDDY_BEAR_B] = "teddy_bear_b",
+	[jobtbl.JT_ILL_TRI_JOINT] = "ill_tri_joint",
+	[jobtbl.JT_ILL_STALACTIC_GOLEM] = "ill_stalactic_golem",
+	[jobtbl.JT_ILL_MEGALITH] = "ill_megalith",
+	[jobtbl.JT_ILL_TAO_GUNKA] = "ill_tao_gunka",
+	[jobtbl.JT_ILL_STONE_SHOOTER] = "ill_stone_shooter",
+	[jobtbl.JT_ILL_WOOTAN_SHOOTER] = "ill_wootan_shooter",
+	[jobtbl.JT_ILL_WOOTAN_FIGHTER] = "ill_wootan_fighter",
+	[jobtbl.JT_ILL_WOOTAN_DEFENDER] = "ill_wootan_defender",
+	[jobtbl.JT_G_ILL_MEGALITH] = "ill_megalith",
+	[jobtbl.JT_G_ILL_WOOTAN_SHOOTER] = "ill_wootan_shooter",
+	[jobtbl.JT_G_ILL_WOOTAN_FIGHTER] = "ill_wootan_fighter"
 }

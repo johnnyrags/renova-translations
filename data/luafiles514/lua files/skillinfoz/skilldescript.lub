@@ -1466,7 +1466,7 @@ SKILL_DESCRIPT = {
 		"Description: ^777777Set a trap that will automatically",
 		"explode after a specific time period",
 		"determined by the level of the skill.",
-		"Each cast requires 1 ^00BB00Trap^777777.^000000",
+		"Each cast requires 2 ^00BB00Trap^777777.^000000",
 		"[Lv 1]: ^77777725 sec duration^000000",
 		"[Lv 2]: ^77777720 sec duration^000000",
 		"[Lv 3]: ^77777715 sec duration^000000",
