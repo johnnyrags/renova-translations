@@ -3720,6 +3720,18 @@ tbl = {
 		MonsterEff = {
 			EFFECT.EF_LEVEL99_ORB1
 		}
+	},
+	[20271] = {
+		MonsterSize = 0.7,
+		MonsterEff = {
+			EFFECT.EF_NONE
+		}
+	},
+	[20277] = {
+		MonsterSize = 1.5,
+		MonsterEff = {
+			EFFECT.EF_NONE
+		}
 	}
 }
 function main()
