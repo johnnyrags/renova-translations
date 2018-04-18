@@ -1,4 +1,3 @@
-1001#Mascot#
 4001#Lucky#
 4002#Vital#
 4003#Hard#
@@ -406,6 +405,7 @@
 4405#of Magic Mirror#
 4406#Twinkle#
 4407#of Elimination#
+
 4408#Abyss#
 4409#Panic#
 4410#Madness#
@@ -440,6 +440,7 @@
 4439#of Anathema#
 4440#of Ignoring#
 4441#Arrogant#
+
 4442#of Basis#
 4443#of Underneath#
 4444#of Saharic#
@@ -454,8 +455,9 @@
 
 4454#Alchemy#
 4455#Love#
+4478#말해봐요#
+4479#왜그랬어요#
 
-// - Episode 14.1 Cards - \\
 4456#Spell Master#
 4457#Psychic#
 4458#of Illusion#
@@ -479,17 +481,7 @@
 4476#Entomic#
 4477#Demonic#
 
-4480#Of Halfreload#
-4481#Half Jack Frost#
-4482#Of Half regeneration#
-4483#Half Spiritual#
-4484#Of Half Gemstone#
-4485#Half Abyss#
-4991#Carefree#
-4998#of Valor#
-4999#of Aegis#
-
-//-------New Monster Cards 
+//--- 2011 / 11 / 18 카드 30종 추가
 4505#of Mad Witch#
 4506#of Archer#
 4507#Scaraba#
@@ -520,32 +512,28 @@
 4532#Sprinting#
 4533#Blinding#
 4534#Water Bomb#
-4493#Half High Risk#
-
 
 4545#Punk#
 
 4546#Fucked up#
 
-/ / --- October 2012 _ Hero's Trail
+//--- 2012년10월_영웅의흔적
 4556#Power Ward#
 4557#of Spell Power#
 
-/ / --- 2013 / 02/15 sealed Dark Lord added
+//--- 2013 / 02 / 15 봉인된다크로드 추가
 4488#of Half Doom#
 
-/ / February 2013 _ drank before Memorial
+// 2013년 2월_마신전메모리얼
 4559#Blitz#
 
-/ / January 2013 _4 _ probability model cache
+// 2013년_4월_확률형캐쉬
 4497#Half Storm#
-4998#of Valor#
-4999#of Aegis#
 
-/ / --- 2013 / 22.05 add beubeu sealed Berger
+//--- 2013 / 05 / 22 봉인된베르제브브 추가
 4486#of the Half Big Mouse#
 
-/ / --- June 2013 _ new cards
+//--- 2013년6월_신규카드
 4560#of Bragi#
 4561#of Magic Protection#
 4562#Of penetrating#
@@ -566,10 +554,8 @@
 4577#Psychic#
 4578#Fear#
 4579#Morning Star#
-4480#of Devilish#
+4580#오브 데빌리시#
 4581#Toilet#
-
-//malaya
 4582#Stamina#
 4583#of Poison Grass#
 4584#Vampiric#
@@ -597,33 +583,48 @@
 4606#of Revenge#
 4607#of Librarian#
 
+//--- 2013년6월_봉인된키엘-D-01
+4480#of Devilish#
+
+//--- 2013년7월_봉인된글룸언더나이트
 4485#Half Abyss#
-4608#Knights#
-4609#Knight#
+
 4610#The cage#
 
-//--- 2013 December
-4494#Half Blast#
-
-//--- 2014 January
-4538#Half LifeStream#
-
-//--- 2014 February
-4489#Half Giraffe#
-
-//--- 2014 March
-4490#Half Tea#
-
-
-// New card translation (dec 2014)
-
-4487#Half of Inferno#
-4491#Half of Squeezing#
-
-4503#Half of Vision#
+//--- 2013년9월_봉인된타락한대신관
 4539#Half Arrogant#
 
-//--- Agustus 2014 Nightmare Clock Tower
+//--- 2013년10월_봉인된이프리트
+4487#Half of Inferno#
+
+4608#Knights#
+4609#Knight#
+
+//--- 2013년12월_봉인된터틀제네럴
+4494#Half Blast#
+
+//--- 2014년1월_봉인된백소진
+4538#Half LifeStream#
+
+//--- 2014년2월_봉인된파라오
+4489#Half Giraffe#
+
+//--- 2014년3월_봉인된월야화
+4490#Half Tea#
+
+//--- 2014년4월_봉인된보스이그니젬
+4482#Of Half regeneration#
+
+//--- 2014년5월_봉인된베스퍼
+4503#Half of Vision#
+
+//--- 2014년6월_봉인된드라큐라
+4483#Half Spiritual#
+
+//--- 2014년7월_봉인된스나이퍼
+4491#Half of Squeezing#
+
+// 2014년 7월 시계탑 나메
 4625#Sage#
 4626#Echo#
 4627#Vibration#
@@ -633,7 +634,7 @@
 4631#Volant#
 4632#Current#
 
-// January 2015 Episode 16.1
+// 2015년 1월 16일 에피소드 16.1
 4446#Sharpen#
 4633#Queen Bird#
 4634#Fatal#
@@ -645,16 +646,7 @@
 4640#Noetic#
 4641#of Soul Gathering#
 
-// 20150616 jRO Nightmare Pyramid
-4652#Punishment#
-4653#Undead Animal#
-4654#Tomb Raider#
-4655#Grave Keeper#
-4656#Hypnotist#
-4657#Flame#
-4658#of Sorcery#
-
-// 2015 06 Infinite Dungeon
+// 2015 06 무한의던전
 4642#Side Step#
 4643#Strike#
 4644#Magic Shield#
@@ -666,7 +658,15 @@
 4650#Magic Stun#
 4651#Monarch#
 
-// 2015 Doram race
+// 2015 08  피라나메
+4652#Punishment#
+4653#Undead Animal#
+4654#Tomb Raider#
+4655#Grave Keeper#
+4656#Hypnotist#
+4657#Flame#
+4658#of Sorcery#
+
 4659#Adventurer#
 4660#Of Will#
 4661#Of Strength#
@@ -680,7 +680,7 @@
 4669#Gust#
 4670#Blaze#
 
-// 201512 Tomb of The Fallen Cards
+// 2015 11 12 전사자의무덤
 4671#of Sorcery#
 4672#of Sura#
 4673#of Minstrel#
@@ -708,7 +708,8 @@
 4695#Rain Storm#
 4696#Sound Shock#
 
-// 2015 Nightmare Toy Factory Cards
+
+// 2015년 호러 장난감 던전 카드
 31016#Sorrow#
 31017#Hatred#
 31018#Frustration#
@@ -718,7 +719,7 @@
 31022#Despair#
 31023#Maniac#
 
-// 2016 공중요새 카드 3종
+//2016 공중요새 카드 3종
 31024#Volcanic#
 31025#Deadly#
 31026#Auto Magic#
@@ -870,3 +871,41 @@
 27288#of Worker#
 27289#Proper#
 27290#of Obsidian#
+
+//대만 봉인된 보스카드
+27209#하프스카라바#
+27210#하프페네트레이션#
+27211#하프사이드라이크#
+27212#하프리플렉트#
+27213#하프브라기의#
+27214#하프마법보호의#
+27215#하프침투의#
+27216#하프염산의#
+27217#하프신사의#
+27218#하프대십자의#
+27219#하프행운의#
+27220#하프소드마스터#
+27221#하프이듀스#
+27222#하프피어#
+27224#하프 오브 데빌리시#
+27225#하프현인의#
+
+4492#하프뉴트럴#
+4498#하프마나풀#
+4484#Of Half Gemstone#
+4499#하프블러디러스트#
+4500#하프미러#
+4501#하프프로텍션#
+4502#오브 하프홀그랜#
+4504#하프베어러즈#
+4481#Half Jack Frost#
+
+//일루전 오브 루안다
+27291#풀차징#
+27292#오브 스터랙틱#
+27293#서클러#
+27294#오브 빅스톤#
+27295#오브 스톤슈터#
+27296#오브 우탄슈터#
+27297#우탄피스트#
+27298#오브 빅쉴더#

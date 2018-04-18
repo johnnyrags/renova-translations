@@ -33,6 +33,9 @@ hu_in01.rsw#bgm\\93.mp3#
 //evt_xmas.rsw#bgm\\58.mp3#
 //evt_mobroom.rsw#bgm\\18.mp3#
 
+// 일루전 오브 루안다
+com_d02_i.rsw#bgm\\41.mp3#
+
 // 일루전 테디베어 나사리안 제국
 ein_d02_i.rsw#bgm\\88.mp3#
 
