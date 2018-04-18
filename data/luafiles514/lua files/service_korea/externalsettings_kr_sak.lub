@@ -22,12 +22,6 @@ AccountLinkedUserDataUrl = {
 	Save = "http://112.175.128.140:3000/userconfig/save",
 	Load = "http://112.175.128.140:3000/userconfig/load"
 }
-AdventurerAgencyDataUrl = {
-	Add = "http://112.175.128.140:3000/party/add",
-	Delete = "http://112.175.128.140:3000/party/del",
-	PrevPage = "http://112.175.128.140:3000/party/PrevPage",
-	NextPage = "http://112.175.128.140:3000/party/NextPage"
-}
 TwitterDataUrl = {
 	Auth = "http://112.175.128.140:3000/twitter/user-auth",
 	Upload = "http://112.175.128.140:3000/twitter/upload"
