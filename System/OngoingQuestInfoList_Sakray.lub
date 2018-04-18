@@ -12495,6 +12495,136 @@ QuestInfoList = {
 		},
 		Summary = "초기화 04시"
 	},
+	[5847] = {
+		Title = "루안다에게 전할 이야기",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"조금 전 보고 겪은 일을 <NAVI>[수비책임자 루안다]<INFO>com_d02_i,241,255,000,0</INFO></NAVI>에게 이야기해주자."
+		},
+		Summary = "",
+		NpcSpr = "4_M_THAIONGBAK",
+		NpcNavi = "com_d02_i",
+		NpcPosX = 241,
+		NpcPosY = 255,
+		RewardEXP = "1120000",
+		RewardJEXP = "650000"
+	},
+	[5848] = {
+		Title = "거석족 퇴치의 증거",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"마을에서는 거석족 몬스터 때문에 골치를 썩고 있다. 그들을 퇴치한 <ITEM>[증거]<INFO>25638</INFO></ITEM> 3개를 가져가면, 하루에 한번 정도는 보상을 해줄 것이다."
+		},
+		Summary = "거석의 증표 3개",
+		NpcSpr = "4_M_THAIONGBAK",
+		NpcNavi = "com_d02_i",
+		NpcPosX = 241,
+		NpcPosY = 255,
+		RewardEXP = "4300000",
+		RewardJEXP = "2800000",
+		RewardItemList = {
+			{ItemID = 25271, ItemNum = 1}
+		}
+	},
+	[5849] = {
+		Title = "[대기]거석족 퇴치의 증거",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[수비책임자 루안다]<INFO>com_d02_i,241,255,000,0</INFO></NAVI>는 내일도 거석족을 퇴치한 증거를 가져간다면, 보상을 해줄 것이다."
+		},
+		Summary = "초기화 04시",
+		NpcSpr = "4_M_THAIONGBAK",
+		NpcNavi = "com_d02_i",
+		NpcPosX = 241,
+		NpcPosY = 255
+	},
+	[5850] = {
+		Title = "우탄족 퇴치의 증거",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"마을에서는 우탄족 몬스터 때문에 골치를 썩고 있다. 그들을 퇴치한 <ITEM>[증거]<INFO>25633</INFO></ITEM> 3개를 가져가면, 하루에 한번 정도는 보상을 해줄 것이다."
+		},
+		Summary = "우탄의 증표 3개",
+		NpcSpr = "4_M_THAIONGBAK",
+		NpcNavi = "com_d02_i",
+		NpcPosX = 241,
+		NpcPosY = 255,
+		RewardEXP = "4300000",
+		RewardJEXP = "2800000",
+		RewardItemList = {
+			{ItemID = 25271, ItemNum = 1}
+		}
+	},
+	[5851] = {
+		Title = "[대기]우탄족 퇴치의 증거",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[수비책임자 루안다]<INFO>com_d02_i,241,255,000,0</INFO></NAVI>는 내일도 우탄족을 퇴치한 증거를 가져간다면, 보상을 해줄 것이다."
+		},
+		Summary = "초기화 04시",
+		NpcSpr = "4_M_THAIONGBAK",
+		NpcNavi = "com_d02_i",
+		NpcPosX = 241,
+		NpcPosY = 255
+	},
+	[5852] = {
+		Title = "거석족 퇴치작전",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"마을에서는 거석족 토벌을 계획하고 있다. <NAVI>[고대의 트라이조인트]<INFO>ILL_TRI_JOINT,0,0,3,-222,1</INFO></NAVI>, <NAVI>[고대의 스터랙틱 고렘]<INFO>ILL_STALACTIC_GOLEM,0,0,3,-222,1</INFO></NAVI>, <NAVI>[고대의 메갈리스]<INFO>ILL_MEGALITH,0,0,3,-222,1</INFO></NAVI>를 다섯 마리씩 잡고서 <NAVI>[수비책임자 루안다]<INFO>com_d02_i,241,255,000,0</INFO></NAVI>에게 보고하자."
+		},
+		Summary = "",
+		NpcSpr = "4_M_THAIONGBAK",
+		NpcNavi = "com_d02_i",
+		NpcPosX = 241,
+		NpcPosY = 255,
+		RewardEXP = "4300000",
+		RewardJEXP = "2800000",
+		RewardItemList = {
+			{ItemID = 25271, ItemNum = 1}
+		}
+	},
+	[5853] = {
+		Title = "[대기]거석족 퇴치작전",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[수비책임자 루안다]<INFO>com_d02_i,241,255,000,0</INFO></NAVI>는 당신이 내일도 거석족 토벌에 나서주길 기대하고 있다."
+		},
+		Summary = "초기화 04시",
+		NpcSpr = "4_M_THAIONGBAK",
+		NpcNavi = "com_d02_i",
+		NpcPosX = 241,
+		NpcPosY = 255
+	},
+	[5854] = {
+		Title = "우탄족 퇴치작전",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"마을에서는 거석족 토벌을 계획하고 있다. <NAVI>[고대의 스톤슈터]<INFO>ILL_STONE_SHOOTER,0,0,3,-222,1</INFO></NAVI>, <NAVI>[고대의 우탄슈터]<INFO>ILL_WOOTAN_SHOOTER,0,0,3,-222,1</INFO></NAVI>, <NAVI>[고대의 우탄파이터]<INFO>ILL_WOOTAN_FIGHTER,0,0,3,-222,1</INFO></NAVI>를 다섯 마리씩 잡고서 <NAVI>[수비책임자 루안다]<INFO>com_d02_i,241,255,000,0</INFO></NAVI>에게 보고하자."
+		},
+		Summary = "",
+		NpcSpr = "4_M_THAIONGBAK",
+		NpcNavi = "com_d02_i",
+		NpcPosX = 241,
+		NpcPosY = 255,
+		RewardEXP = "4300000",
+		RewardJEXP = "2800000",
+		RewardItemList = {
+			{ItemID = 25271, ItemNum = 1}
+		}
+	},
+	[5855] = {
+		Title = "[대기]우탄족 퇴치작전",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[수비책임자 루안다]<INFO>com_d02_i,241,255,000,0</INFO></NAVI>는 당신이 내일도 우탄족 토벌에 나서주길 기대하고 있다."
+		},
+		Summary = "초기화 04시",
+		NpcSpr = "4_M_THAIONGBAK",
+		NpcNavi = "com_d02_i",
+		NpcPosX = 241,
+		NpcPosY = 255
+	},
 	[6000] = {
 		Title = "Job Change to Taekwon",
 		Description = {
