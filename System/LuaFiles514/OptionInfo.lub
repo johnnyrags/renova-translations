@@ -36,14 +36,16 @@ CmdOnOffList = {
 	["/mineffect"] = 0,
 	Trilinear = 0,
 	SkinName = "<Basic Skin>",
-	MouseExclusive = 0
+	MouseExclusive = 0,
+	["/mable"] = 1,
+	["/zoom"] = 0
 }
 OptionInfoList = {
 	Window_XPos = -1,
 	Window_YPos = -1,
 	Trilinear = 0,
 	Bgm_Volume = 100,
-	Effect_Volume = 100,
+	Effect_Volume = 64,
 	AutoOpen1to1Window = 1,
 	AutoOpen1to1Window_Friend = 1,
 	PlaySound_Open1to1Window = 1,
@@ -99,5 +101,7 @@ DefaultCmdOnOffList = {
 	SkinName = "<Basic Skin>",
 	MouseExclusive = 0,
 	Bgm_Volume = 100,
-	Effect_Volume = 100
+	Effect_Volume = 64,
+	["/mable"] = 1,
+	["/zoom"] = 0
 }

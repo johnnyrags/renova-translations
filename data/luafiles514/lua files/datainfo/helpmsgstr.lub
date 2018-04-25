@@ -74,5 +74,7 @@ HelpMsgStr = {
 	" -------------- Navigation Search Commands ------- ",
 	"$$all         : Outputs all the results (Type of navigation can be specified).",
 	"$$lv30       : Monsters of that level are displayed (Amount may vary).",
-	"$$lv20~30  : Monster of that level range are displayed (Amount may vary)."
+	"$$lv20~30  : Monster of that level range are displayed (Amount may vary).",
+	"/È¯º¹ : Disable event clothing such as weddings and Santa outfits",
+	"/zoom: Zoom Out can be turned On Off"
 }
