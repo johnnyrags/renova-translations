@@ -1671,6 +1671,14 @@ tblLapineUpgradeBox = {
 				{
 					"S_CriticalHit_Armor",
 					15280
+				},
+				{
+					"씨프이어링S",
+					28391
+				},
+				{
+					"아처이어링S",
+					28392
 				}
 			},
 			NeedSource_String = "쉐도우 아이템"
