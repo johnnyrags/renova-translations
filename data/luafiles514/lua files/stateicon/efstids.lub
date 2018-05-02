@@ -927,6 +927,7 @@ EFST_IDs = {
 	EFST_ASPD_POPCORN = 1033,
 	EFST_INFINITY_DRINK = 1065,
 	EFST_HUNTING_EVENT = 1083,
+	EFST_ANCILLA = 1095,
 	__newindex = function()
 	error("unknown state")
 end
