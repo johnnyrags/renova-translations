@@ -4670,3 +4670,6 @@
 17945	1	1	0	1	1	1	1	1	//Almighty100_PlusBox4
 23710	1	1	0	1	1	1	1	1	//2018_Spring_Scroll
 25464	1	1	0	1	1	1	1	1	//World_Tour_Ticket
+25643	1	1	1	1	0	1	1	1	//Autographed_Book
+23340	1	1	0	1	0	1	1	1	//보상확성기
+25659	1	1	1	1	0	1	1	1	//Evt_May02_KR
