@@ -20990,6 +20990,46 @@ QuestInfoList = {
 		Title = "왕의 구두굽에 다녀온 대가",
 		Summary = ""
 	},
+	[8530] = {
+		Title = "갈아드릴게요…멜론을.",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"허리를 다친 아버지 대신 멜론 축제 일을 하게 된 <NAVI>[라벤더]<INFO>geffen,88,35,0,101,0</INFO></NAVI>는 달콤한 멜론 10개를 가져다 주면 달콤한 멜론 주스를 만들어 준다고 한다. 달콤한 멜론은 달콤이에게서 얻을 수 있다."
+		},
+		Summary = "달콤한 멜론 10개 조달"
+	},
+	[8531] = {
+		Title = "밀가루를 찾으러 알베르타에",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"라벤더는 좋은 생각이 났다며 밀가루를 대신 가져다 달라고 한다. 알베르타에서 품질 좋은 밀을 금방 빻아서 준비중인 <NAVI>[상인]<INFO>aldebaran,101,52,0,101,0</INFO></NAVI>이 있다는 듯하다."
+		},
+		Summary = "수상한 상인과 대화"
+	},
+	[8532] = {
+		Title = "라벤더에게 밀가루 배달",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"밀가루를 회수했다. 이대로 게펜의 <NAVI>[라벤더]<INFO>geffen,88,35,0,101,0</INFO></NAVI>에게 가져다 주자."
+		},
+		Summary = "라벤더에게 밀가루 배달"
+	},
+	[8533] = {
+		Title = "멜론 축제 기념 모자 (1)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"라벤더의 사촌인 <NAVI>[난나비]<INFO>geffen,106,63,0,101,0</INFO></NAVI>는 멜론…아니, 달콤이 껍질을 모으고 있다. 라벤더가 이야기한 대로라면 특별한 모자를 만들 수 있다는 것 같다."
+		},
+		Summary = "난나비와 대화"
+	},
+	[8534] = {
+		Title = "멜론 축제 기념 모자 (2)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"게펜의 <NAVI>[난나비]<INFO>geffen,106,63,0,101,0</INFO></NAVI>는 품질이 좋은 달콤이 껍질이 모자라 기념 모자를 만들지 못하고 있다고 한다. 달콤이 껍질 30개를 모아다 가져다 주자."
+		},
+		Summary = "달콤이 껍질 30개 조달"
+	},
 	[9000] = {
 		Title = "Job Change to Knight",
 		Description = {
