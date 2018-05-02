@@ -6981,7 +6981,7 @@ SKILL_INFO_LIST = {
 		"AB_RENOVATIO",
 		SkillName = "Renovatio",
 		MaxLv = 1,
-		SpAmount = { 70 },
+		SpAmount = { 240 },
 		bSeperateLv = false,
 		AttackRange = { 11 },
 		_NeedSkillList = {
@@ -7058,6 +7058,30 @@ SKILL_INFO_LIST = {
 		AttackRange = { 4, 5, 6, 7, 8 },
 		_NeedSkillList = {
 			{ SKID.AB_CLEARANCE, 1 }
+		}
+	},
+	[SKID.AB_VITUPERATUM] = {
+		"AB_VITUPERATUM",
+		SkillName = "Vit Uperatum",
+		MaxLv = 5,
+		SpAmount = { 144, 120, 106, 92, 78 },
+		bSeperateLv = false,
+		AttackRange = { 3, 3, 3, 5, 5 },
+		_NeedSkillList = {
+			{ SKID.AB_EXPIATIO, 1 },
+			{ SKID.AB_EPICLESIS, 1 }
+		}
+	},
+	[SKID.AB_CONVENIO] = {
+		"AB_CONVENIO",
+		SkillName = "Convenio",
+		MaxLv = 1,
+		SpAmount = { 70 },
+		bSeperateLv = false,
+		AttackRange = {1},
+		_NeedSkillList = {
+			{ SKID.AB_ANCILLA, 1 },
+			{ SKID.AB_ORATIO, 5 }
 		}
 	},
 	[SKID.MS_BASH] = {
@@ -12234,7 +12258,7 @@ SKILL_INFO_LIST = {
 		"AB_ANCILLA",
 		SkillName = "Ancilla",
 		MaxLv = 1,
-		SpAmount = { 30 },
+		SpAmount = { 10 },
 		bSeperateLv = false,
 		AttackRange = { 1 },
 		_NeedSkillList = {
@@ -12245,7 +12269,7 @@ SKILL_INFO_LIST = {
 		"AB_ADORAMUS",
 		SkillName = "Adoramus",
 		MaxLv = 10,
-		SpAmount = { 22, 28, 34, 40, 46, 52, 58, 64, 70, 76 },
+		SpAmount = { 32, 40, 48, 56, 64, 72, 78, 88, 96, 104 },
 		bSeperateLv = true,
 		AttackRange = { 11, 11, 11, 11, 11, 11, 11, 11, 11, 11 },
 		_NeedSkillList = {
