@@ -507,7 +507,6 @@ SignBoardList = {
 	{ "veins", 208, 128, 0, IT_BMP, "유저인터페이스\\information\\over_kafra.bmp" },
 	{ "veins", 210, 345, 0, IT_BMP, "유저인터페이스\\information\\over_guide.bmp" },
 	{ "xmas", 140, 137, 0, IT_BMP, "유저인터페이스\\information\\over_guide.bmp" },
-	{ "xmas", 148, 134, 0, IT_BMP, "유저인터페이스\\information\\over_kafra.bmp" },
 	{ "xmas_in", 168, 104, 0, IT_BMP, "유저인터페이스\\information\\over_armorshops.bmp" },
 	{ "xmas_in", 174, 98, 0, IT_BMP, "유저인터페이스\\information\\over_weaponshop.bmp" },
 	{ "xmas_in", 40, 38, 0, IT_BMP, "유저인터페이스\\information\\over_store.bmp" },
